@@ -1,0 +1,25 @@
+
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (optional - comment out if you want to include)
+data/raw/
+data/processed/
+data/predictions/
+
+# Model files
+models/*.pkl
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
