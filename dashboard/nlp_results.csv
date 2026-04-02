@@ -1,0 +1,1870 @@
+CustomerID,Churn Reason,Churn Theme,Sentiment_Score,Sentiment_Label
+3668-QPYBK,Competitor made better offer,Competitor,0.4404,Positive
+9237-HQITU,Moved,Personal Reasons,0.0,Neutral
+9305-CDSKC,Moved,Personal Reasons,0.0,Neutral
+7892-POOKP,Moved,Personal Reasons,0.0,Neutral
+0280-XJGEX,Competitor had better devices,Competitor,0.4404,Positive
+4190-MFLUW,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8779-QRDMV,Competitor offered more data,Competitor,0.0,Neutral
+1066-JKSGK,Competitor made better offer,Competitor,0.4404,Positive
+6467-CHFZW,Competitor had better devices,Competitor,0.4404,Positive
+8665-UTDHZ,Competitor had better devices,Competitor,0.4404,Positive
+8773-HHUOZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6047-YHPVI,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5380-WJKOV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8168-UQWWF,Competitor offered more data,Competitor,0.0,Neutral
+7760-OYPDY,Competitor offered more data,Competitor,0.0,Neutral
+9420-LOJKX,Competitor offered more data,Competitor,0.0,Neutral
+7495-OOKFY,Competitor made better offer,Competitor,0.4404,Positive
+1658-BYGOY,Competitor made better offer,Competitor,0.4404,Positive
+5698-BQJOH,Price too high,Pricing,0.0,Neutral
+5919-TMRGD,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9191-MYQKX,Service dissatisfaction,Customer Service,-0.4939,Negative
+8637-XJIVR,Lack of self-service on Website,Customer Service,-0.3182,Negative
+0278-YXOOG,Network reliability,Network Quality,0.0,Neutral
+4598-XLKNJ,Limited range of services,Customer Service,-0.2263,Negative
+3192-NQECA,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+0486-HECZI,Long distance charges,Other,-0.2732,Negative
+4846-WHAFZ,Extra data charges,Other,-0.2732,Negative
+5299-RULOA,Price too high,Pricing,0.0,Neutral
+0404-SWRVG,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4412-YLTKF,Service dissatisfaction,Customer Service,-0.4939,Negative
+6207-WIOLX,Lack of self-service on Website,Customer Service,-0.3182,Negative
+3091-FYHKI,Network reliability,Network Quality,0.0,Neutral
+2372-HWUHI,Don't know,Other,0.0,Neutral
+0390-DCFDQ,Don't know,Other,0.0,Neutral
+4080-OGPJL,Don't know,Other,0.0,Neutral
+2135-RXIHG,Poor expertise of online support,Customer Service,-0.1027,Negative
+3874-EQOEP,Poor expertise of phone support,Customer Service,-0.1027,Negative
+0867-MKZVY,Price too high,Pricing,0.0,Neutral
+3376-BMGFE,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3445-HXXGF,Service dissatisfaction,Customer Service,-0.4939,Negative
+1875-QIVME,Lack of self-service on Website,Customer Service,-0.3182,Negative
+0691-JVSYA,Network reliability,Network Quality,0.0,Neutral
+2656-FMOKZ,Limited range of services,Customer Service,-0.2263,Negative
+2070-FNEXE,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+6317-YPKDH,Long distance charges,Other,-0.2732,Negative
+9367-WXLCH,Extra data charges,Other,-0.2732,Negative
+1918-ZBFQJ,Price too high,Pricing,0.0,Neutral
+1024-GUALD,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2472-OVKUP,Service dissatisfaction,Customer Service,-0.4939,Negative
+1285-OKIPP,Lack of self-service on Website,Customer Service,-0.3182,Negative
+7825-ECJRF,Network reliability,Network Quality,0.0,Neutral
+7841-TZDMQ,Don't know,Other,0.0,Neutral
+9408-SSNVZ,Don't know,Other,0.0,Neutral
+0742-MOABM,Don't know,Other,0.0,Neutral
+2232-DMLXU,Poor expertise of online support,Customer Service,-0.1027,Negative
+8937-RDTHP,Poor expertise of phone support,Customer Service,-0.1027,Negative
+1251-KRREG,Price too high,Pricing,0.0,Neutral
+0094-OIFMO,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9947-OTFQU,Service dissatisfaction,Customer Service,-0.4939,Negative
+0322-YINQP,Lack of self-service on Website,Customer Service,-0.3182,Negative
+4629-NRXKX,Network reliability,Network Quality,0.0,Neutral
+9514-JDSKI,Limited range of services,Customer Service,-0.2263,Negative
+4959-JOSRX,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+7273-TEFQD,Long distance charges,Other,-0.2732,Negative
+3606-TWKGI,Extra data charges,Other,-0.2732,Negative
+6323-AYBRX,Price too high,Pricing,0.0,Neutral
+4385-GZQXV,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6366-ZGQGL,Service dissatisfaction,Customer Service,-0.4939,Negative
+5940-AHUHD,Lack of self-service on Website,Customer Service,-0.3182,Negative
+6432-TWQLB,Network reliability,Network Quality,0.0,Neutral
+4484-GLZOU,Don't know,Other,0.0,Neutral
+9512-UIBFX,Don't know,Other,0.0,Neutral
+5583-SXDAG,Don't know,Other,0.0,Neutral
+3488-PGMQJ,Poor expertise of online support,Customer Service,-0.1027,Negative
+3580-REOAC,Poor expertise of phone support,Customer Service,-0.1027,Negative
+7534-BFESC,Price too high,Pricing,0.0,Neutral
+6390-DSAZX,Product dissatisfaction,Product & Offers,-0.4939,Negative
+8098-LLAZX,Service dissatisfaction,Customer Service,-0.4939,Negative
+0265-EDXBD,Lack of self-service on Website,Customer Service,-0.3182,Negative
+7563-BIUPC,Network reliability,Network Quality,0.0,Neutral
+2321-OMBXY,Limited range of services,Customer Service,-0.2263,Negative
+2840-XANRC,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+5020-ZSTTY,Long distance charges,Other,-0.2732,Negative
+5804-LEPIM,Extra data charges,Other,-0.2732,Negative
+0122-OAHPZ,Price too high,Pricing,0.0,Neutral
+2868-SNELZ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4322-RCYMT,Service dissatisfaction,Customer Service,-0.4939,Negative
+6680-NENYN,Lack of self-service on Website,Customer Service,-0.3182,Negative
+1343-EHPYB,Network reliability,Network Quality,0.0,Neutral
+2034-GDRCN,Don't know,Other,0.0,Neutral
+0219-YTZUE,Don't know,Other,0.0,Neutral
+0623-IIHUG,Don't know,Other,0.0,Neutral
+4572-DVCGN,Poor expertise of online support,Customer Service,-0.1027,Negative
+9057-MSWCO,Poor expertise of phone support,Customer Service,-0.1027,Negative
+1010-DIAUQ,Price too high,Pricing,0.0,Neutral
+0259-GBZSH,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9601-BRXPO,Service dissatisfaction,Customer Service,-0.4939,Negative
+6905-NIQIN,Don't know,Other,0.0,Neutral
+5167-ZFFMM,Network reliability,Network Quality,0.0,Neutral
+4895-TMWIR,Limited range of services,Customer Service,-0.2263,Negative
+0533-BNWKF,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+6599-CEBNN,Long distance charges,Other,-0.2732,Negative
+0979-PHULV,Extra data charges,Other,-0.2732,Negative
+4800-VHZKI,Price too high,Pricing,0.0,Neutral
+7989-CHGTL,Product dissatisfaction,Product & Offers,-0.4939,Negative
+0334-GDDSO,Service dissatisfaction,Customer Service,-0.4939,Negative
+0578-SKVMF,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5564-NEMQO,Network reliability,Network Quality,0.0,Neutral
+9063-ZGTUY,Don't know,Other,0.0,Neutral
+2957-LOLHO,Don't know,Other,0.0,Neutral
+7752-XUSCI,Don't know,Other,0.0,Neutral
+4110-PFEUZ,Competitor had better devices,Competitor,0.4404,Positive
+0256-LTHVJ,Competitor had better devices,Competitor,0.4404,Positive
+0880-TKATG,Competitor had better devices,Competitor,0.4404,Positive
+3811-VBYBZ,Competitor had better devices,Competitor,0.4404,Positive
+4640-UHDOS,Competitor had better devices,Competitor,0.4404,Positive
+3583-EKAPL,Competitor had better devices,Competitor,0.4404,Positive
+9399-APLBT,Competitor had better devices,Competitor,0.4404,Positive
+2359-KMGLI,Competitor had better devices,Competitor,0.4404,Positive
+0306-JAELE,Competitor had better devices,Competitor,0.4404,Positive
+6227-HWPWX,Competitor had better devices,Competitor,0.4404,Positive
+0447-BEMNG,Price too high,Pricing,0.0,Neutral
+5949-XIKAE,Product dissatisfaction,Product & Offers,-0.4939,Negative
+8372-JUXUI,Service dissatisfaction,Customer Service,-0.4939,Negative
+0388-EOPEX,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8205-OTCHB,Network reliability,Network Quality,0.0,Neutral
+6235-VDHOM,Limited range of services,Customer Service,-0.2263,Negative
+7783-YKGDV,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+5609-CEBID,Long distance charges,Other,-0.2732,Negative
+7218-HKQFK,Don't know,Other,0.0,Neutral
+4636-QRJKY,Price too high,Pricing,0.0,Neutral
+5956-VKDTT,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9412-GHEEC,Service dissatisfaction,Customer Service,-0.4939,Negative
+0257-ZESQC,Lack of self-service on Website,Customer Service,-0.3182,Negative
+6825-UYPFK,Network reliability,Network Quality,0.0,Neutral
+8397-MVTAZ,Don't know,Other,0.0,Neutral
+9282-IZGQK,Don't know,Other,0.0,Neutral
+1342-JPNKI,Don't know,Other,0.0,Neutral
+2817-NTQDO,Poor expertise of online support,Customer Service,-0.1027,Negative
+6986-IJDHX,Poor expertise of phone support,Customer Service,-0.1027,Negative
+5301-GAUUY,Competitor had better devices,Competitor,0.4404,Positive
+0939-YAPAF,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4710-FDUIZ,Competitor offered more data,Competitor,0.0,Neutral
+1218-VKFPE,Competitor made better offer,Competitor,0.4404,Positive
+3627-FHKBK,Competitor had better devices,Competitor,0.4404,Positive
+2865-TCHJW,Competitor had better devices,Competitor,0.4404,Positive
+5192-EBGOV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0719-SYFRB,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3419-SNJJD,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6543-CPZMK,Competitor offered more data,Competitor,0.0,Neutral
+4765-OXPPD,Competitor offered more data,Competitor,0.0,Neutral
+1009-IRMNA,Competitor offered more data,Competitor,0.0,Neutral
+4554-YGZIH,Competitor made better offer,Competitor,0.4404,Positive
+5099-BAILX,Competitor made better offer,Competitor,0.4404,Positive
+7207-RMRDB,Competitor had better devices,Competitor,0.4404,Positive
+4913-EHYUI,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0195-IESCP,Competitor offered more data,Competitor,0.0,Neutral
+4580-TMHJU,Don't know,Other,0.0,Neutral
+0970-ETWGE,Competitor had better devices,Competitor,0.4404,Positive
+1626-ERCMM,Competitor had better devices,Competitor,0.4404,Positive
+0887-HJGAR,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5644-PDMZC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9576-ANLXO,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2024-BASKD,Competitor offered more data,Competitor,0.0,Neutral
+4160-AMJTL,Competitor offered more data,Competitor,0.0,Neutral
+4464-JCOLN,Competitor offered more data,Competitor,0.0,Neutral
+5650-VDUDS,Competitor made better offer,Competitor,0.4404,Positive
+7538-GWHML,Competitor made better offer,Competitor,0.4404,Positive
+3859-CVCET,Competitor had better devices,Competitor,0.4404,Positive
+3276-HDUEG,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0823-HSCDJ,Competitor offered more data,Competitor,0.0,Neutral
+0822-GAVAP,Competitor made better offer,Competitor,0.4404,Positive
+1448-PWKYE,Competitor had better devices,Competitor,0.4404,Positive
+0067-DKWBL,Competitor had better devices,Competitor,0.4404,Positive
+2276-YDAVZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5896-NPFWW,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7133-VBDCG,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1029-QFBEN,Competitor offered more data,Competitor,0.0,Neutral
+4952-YSOGZ,Competitor offered more data,Competitor,0.0,Neutral
+1589-AGTLK,Competitor offered more data,Competitor,0.0,Neutral
+5244-IRFIH,Competitor made better offer,Competitor,0.4404,Positive
+2684-EIWEO,Competitor made better offer,Competitor,0.4404,Positive
+6439-GTPCA,Competitor had better devices,Competitor,0.4404,Positive
+5138-WVKYJ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6683-VLCTZ,Competitor offered more data,Competitor,0.0,Neutral
+2189-WWOEW,Don't know,Other,0.0,Neutral
+1894-IGFSG,Competitor had better devices,Competitor,0.4404,Positive
+7379-POKDZ,Competitor had better devices,Competitor,0.4404,Positive
+0236-HFWSV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3900-AQPHZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5842-POCOP,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2037-XJFUP,Competitor offered more data,Competitor,0.0,Neutral
+7314-OXENN,Competitor offered more data,Competitor,0.0,Neutral
+0322-CHQRU,Competitor offered more data,Competitor,0.0,Neutral
+4678-DVQEO,Competitor made better offer,Competitor,0.4404,Positive
+0691-IFBQW,Competitor made better offer,Competitor,0.4404,Positive
+3009-JWMPU,Attitude of service provider,Customer Service,0.0,Neutral
+1450-GALXR,Attitude of service provider,Customer Service,0.0,Neutral
+3138-BKYAV,Attitude of service provider,Customer Service,0.0,Neutral
+4289-DTDKW,Attitude of support person,Customer Service,0.4019,Positive
+1820-TQVEV,Attitude of support person,Customer Service,0.4019,Positive
+2239-JALAW,Attitude of support person,Customer Service,0.4019,Positive
+4853-RULSV,Attitude of service provider,Customer Service,0.0,Neutral
+6275-YDUVO,Attitude of service provider,Customer Service,0.0,Neutral
+0115-TFERT,Attitude of service provider,Customer Service,0.0,Neutral
+2311-QYMUQ,Attitude of support person,Customer Service,0.4019,Positive
+3643-AHCFP,Competitor made better offer,Competitor,0.4404,Positive
+3104-OWCGK,Moved,Personal Reasons,0.0,Neutral
+9101-BWFSS,Moved,Personal Reasons,0.0,Neutral
+9231-ZJYAM,Moved,Personal Reasons,0.0,Neutral
+6982-SSHFK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0727-BMPLR,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1038-ZAGBI,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3027-ZTDHO,Don't know,Other,0.0,Neutral
+2382-BCKQJ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2207-NHRJK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0947-MUGVO,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9944-HKVVB,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4124-MMETB,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3671-SHRSP,Competitor offered more data,Competitor,0.0,Neutral
+3313-QKNKB,Competitor offered more data,Competitor,0.0,Neutral
+5073-WXOYN,Competitor offered more data,Competitor,0.0,Neutral
+0207-MDKNV,Competitor made better offer,Competitor,0.4404,Positive
+9851-KIELU,Competitor made better offer,Competitor,0.4404,Positive
+3908-BLSYF,Price too high,Pricing,0.0,Neutral
+7549-MYGPK,Price too high,Pricing,0.0,Neutral
+3804-RVTGV,Price too high,Pricing,0.0,Neutral
+9227-LUNBG,Price too high,Pricing,0.0,Neutral
+4315-MURBD,Price too high,Pricing,0.0,Neutral
+9734-YWGEX,Price too high,Pricing,0.0,Neutral
+2719-BDAQO,Price too high,Pricing,0.0,Neutral
+0781-LKXBR,Price too high,Pricing,0.0,Neutral
+1907-UBQFC,Price too high,Pricing,0.0,Neutral
+6513-EECDB,Price too high,Pricing,0.0,Neutral
+7074-IEVOJ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9625-QSTYE,Service dissatisfaction,Customer Service,-0.4939,Negative
+4750-ZRXIU,Lack of self-service on Website,Customer Service,-0.3182,Negative
+6400-BWQKW,Network reliability,Network Quality,0.0,Neutral
+6680-WKXRZ,Don't know,Other,0.0,Neutral
+7028-DVOIQ,Don't know,Other,0.0,Neutral
+4208-UFFGW,Don't know,Other,0.0,Neutral
+9448-REEVD,Don't know,Other,0.0,Neutral
+9117-SHLZX,Poor expertise of phone support,Customer Service,-0.1027,Negative
+9889-TMAHG,Competitor had better devices,Competitor,0.4404,Positive
+4541-RMRLG,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3158-MOERK,Competitor offered more data,Competitor,0.0,Neutral
+7294-TMAOP,Competitor made better offer,Competitor,0.4404,Positive
+8919-FYFQZ,Competitor had better devices,Competitor,0.4404,Positive
+2834-JRTUA,Competitor had better devices,Competitor,0.4404,Positive
+5875-YPQFJ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6646-QVXLR,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8603-IJWDN,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9369-XFEHK,Competitor offered more data,Competitor,0.0,Neutral
+3842-IYKUE,Competitor offered more data,Competitor,0.0,Neutral
+6641-XRPSU,Competitor offered more data,Competitor,0.0,Neutral
+1374-DMZUI,Competitor made better offer,Competitor,0.4404,Positive
+8357-EQXFO,Competitor made better offer,Competitor,0.4404,Positive
+1989-PRJHP,Competitor had better devices,Competitor,0.4404,Positive
+9524-EGPJC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6993-OHLXR,Competitor offered more data,Competitor,0.0,Neutral
+8818-XYFCQ,Competitor made better offer,Competitor,0.4404,Positive
+4695-VADHF,Competitor had better devices,Competitor,0.4404,Positive
+3863-IUBJR,Competitor had better devices,Competitor,0.4404,Positive
+4822-RVYBB,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8436-BJUMM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4184-TJFAN,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4145-UQXUQ,Competitor offered more data,Competitor,0.0,Neutral
+9948-YPTDG,Competitor offered more data,Competitor,0.0,Neutral
+1236-WFCDV,Competitor offered more data,Competitor,0.0,Neutral
+4883-QICIH,Don't know,Other,0.0,Neutral
+8329-IBCTI,Competitor made better offer,Competitor,0.4404,Positive
+1271-SJBGZ,Competitor had better devices,Competitor,0.4404,Positive
+5669-SRAIP,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5981-ITEMU,Competitor offered more data,Competitor,0.0,Neutral
+6941-PMGEP,Competitor made better offer,Competitor,0.4404,Positive
+1624-WOIWJ,Competitor had better devices,Competitor,0.4404,Positive
+2074-GKOWZ,Competitor had better devices,Competitor,0.4404,Positive
+0376-YMCJC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0634-SZPQA,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5536-RTPWK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6166-ILMNY,Competitor offered more data,Competitor,0.0,Neutral
+3097-NNSPB,Competitor offered more data,Competitor,0.0,Neutral
+0655-RBDUG,Competitor offered more data,Competitor,0.0,Neutral
+4361-BKAXE,Competitor made better offer,Competitor,0.4404,Positive
+9878-TNQGW,Competitor made better offer,Competitor,0.4404,Positive
+4441-NIHPT,Competitor had better devices,Competitor,0.4404,Positive
+8999-BOHSE,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7029-RPUAV,Competitor offered more data,Competitor,0.0,Neutral
+4607-CHPCA,Competitor made better offer,Competitor,0.4404,Positive
+8824-RWFXJ,Competitor had better devices,Competitor,0.4404,Positive
+9763-PDTKK,Competitor had better devices,Competitor,0.4404,Positive
+7627-JKIAZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4081-DYXAV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8111-SLLHI,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0927-LCSMG,Competitor offered more data,Competitor,0.0,Neutral
+8257-RZAHR,Competitor offered more data,Competitor,0.0,Neutral
+5293-WXJAK,Competitor offered more data,Competitor,0.0,Neutral
+0841-NULXI,Don't know,Other,0.0,Neutral
+7851-WZEKY,Competitor made better offer,Competitor,0.4404,Positive
+8844-TONUD,Attitude of service provider,Customer Service,0.0,Neutral
+4086-YQSNZ,Attitude of service provider,Customer Service,0.0,Neutral
+5868-CZJDR,Attitude of service provider,Customer Service,0.0,Neutral
+0135-NMXAP,Attitude of support person,Customer Service,0.4019,Positive
+6270-OMFIW,Attitude of support person,Customer Service,0.4019,Positive
+0107-WESLM,Attitude of support person,Customer Service,0.4019,Positive
+3992-YWPKO,Attitude of service provider,Customer Service,0.0,Neutral
+0125-LZQXK,Attitude of service provider,Customer Service,0.0,Neutral
+8399-YNDCH,Attitude of service provider,Customer Service,0.0,Neutral
+5673-FSSMF,Attitude of support person,Customer Service,0.4019,Positive
+1579-KLYDT,Competitor made better offer,Competitor,0.4404,Positive
+3927-NLNRY,Moved,Personal Reasons,0.0,Neutral
+6358-LYNGM,Moved,Personal Reasons,0.0,Neutral
+5494-HECPR,Moved,Personal Reasons,0.0,Neutral
+9824-BEMCV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1373-ORVIZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9866-QEVEE,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9897-KXHCM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7979-CORPM,Don't know,Other,0.0,Neutral
+1618-CFHME,Don't know,Other,0.0,Neutral
+3165-HDOEW,Don't know,Other,0.0,Neutral
+6581-NQCBA,Don't know,Other,0.0,Neutral
+1689-MRZQR,Don't know,Other,0.0,Neutral
+5835-BEQEU,Don't know,Other,0.0,Neutral
+5565-FILXA,Don't know,Other,0.0,Neutral
+5552-ZNFSJ,Don't know,Other,0.0,Neutral
+2223-KAGMX,Don't know,Other,0.0,Neutral
+7321-PKUYW,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2833-SLKDQ,Network reliability,Network Quality,0.0,Neutral
+7595-EUIVN,Network reliability,Network Quality,0.0,Neutral
+2026-TGDHM,Network reliability,Network Quality,0.0,Neutral
+4030-VPZBD,Network reliability,Network Quality,0.0,Neutral
+4187-CINZD,Network reliability,Network Quality,0.0,Neutral
+6818-WOBHJ,Network reliability,Network Quality,0.0,Neutral
+2408-TZMJL,Network reliability,Network Quality,0.0,Neutral
+9134-CEQMF,Network reliability,Network Quality,0.0,Neutral
+7993-PYKOF,Network reliability,Network Quality,0.0,Neutral
+5027-XWQHA,Network reliability,Network Quality,0.0,Neutral
+4566-QVRRW,Network reliability,Network Quality,0.0,Neutral
+8519-IMDHU,Network reliability,Network Quality,0.0,Neutral
+0201-OAMXR,Network reliability,Network Quality,0.0,Neutral
+3372-KWFBM,Network reliability,Network Quality,0.0,Neutral
+7831-QGOXH,Don't know,Other,0.0,Neutral
+6393-WRYZE,Don't know,Other,0.0,Neutral
+6599-RCLCJ,Don't know,Other,0.0,Neutral
+9831-BPFRI,Poor expertise of online support,Customer Service,-0.1027,Negative
+1725-MIMXW,Poor expertise of phone support,Customer Service,-0.1027,Negative
+0031-PVLZI,Competitor had better devices,Competitor,0.4404,Positive
+7206-GZCDC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4791-QRGMF,Competitor offered more data,Competitor,0.0,Neutral
+1768-ZAIFU,Competitor made better offer,Competitor,0.4404,Positive
+4671-LXRDQ,Competitor had better devices,Competitor,0.4404,Positive
+1934-SJVJK,Competitor had better devices,Competitor,0.4404,Positive
+3838-OZURD,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9269-CQOOL,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2845-HSJCY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1184-PJVDB,Competitor offered more data,Competitor,0.0,Neutral
+9415-DPEWS,Competitor offered more data,Competitor,0.0,Neutral
+7943-RQCHR,Competitor offered more data,Competitor,0.0,Neutral
+3793-MMFUH,Competitor made better offer,Competitor,0.4404,Positive
+3249-ZPQRG,Competitor made better offer,Competitor,0.4404,Positive
+2568-BRGYX,Competitor had better devices,Competitor,0.4404,Positive
+7721-JXEAW,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7249-WBIYX,Competitor offered more data,Competitor,0.0,Neutral
+6567-HOOPW,Competitor made better offer,Competitor,0.4404,Positive
+3164-AALRN,Competitor had better devices,Competitor,0.4404,Positive
+3334-CTHOL,Competitor had better devices,Competitor,0.4404,Positive
+4704-ERYFC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8621-MNIHH,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0471-LVHGK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9518-RWHZL,Competitor offered more data,Competitor,0.0,Neutral
+5419-CONWX,Competitor offered more data,Competitor,0.0,Neutral
+6240-EURKS,Competitor offered more data,Competitor,0.0,Neutral
+6960-HVYXR,Competitor made better offer,Competitor,0.4404,Positive
+7024-OHCCK,Don't know,Other,0.0,Neutral
+7861-UVUFT,Competitor had better devices,Competitor,0.4404,Positive
+5357-TZHPP,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0680-DFNNY,Competitor offered more data,Competitor,0.0,Neutral
+7767-UXAGJ,Competitor made better offer,Competitor,0.4404,Positive
+1571-SAVHK,Competitor had better devices,Competitor,0.4404,Positive
+9546-CQJSU,Competitor had better devices,Competitor,0.4404,Positive
+0506-LVNGN,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2951-QOQTK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3473-XIIIT,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7893-IXHRQ,Competitor offered more data,Competitor,0.0,Neutral
+2952-QAYZF,Competitor offered more data,Competitor,0.0,Neutral
+4763-PGDPO,Competitor offered more data,Competitor,0.0,Neutral
+5394-SVGJV,Competitor made better offer,Competitor,0.4404,Positive
+9283-LZQOH,Competitor made better offer,Competitor,0.4404,Positive
+7079-QRCBC,Competitor had better devices,Competitor,0.4404,Positive
+5469-CTCWN,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9851-QXEEQ,Competitor offered more data,Competitor,0.0,Neutral
+9809-IMGCQ,Competitor made better offer,Competitor,0.4404,Positive
+5208-HFSBT,Competitor had better devices,Competitor,0.4404,Positive
+3254-YRILK,Competitor had better devices,Competitor,0.4404,Positive
+2667-WYLWJ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0529-ONKER,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5240-IJOQT,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1092-GANHU,Competitor offered more data,Competitor,0.0,Neutral
+0661-XEYAN,Competitor offered more data,Competitor,0.0,Neutral
+7881-EVUAD,Competitor offered more data,Competitor,0.0,Neutral
+5766-XQXMQ,Competitor made better offer,Competitor,0.4404,Positive
+3703-VAVCL,Competitor made better offer,Competitor,0.4404,Positive
+8519-QJGJD,Attitude of service provider,Customer Service,0.0,Neutral
+6326-MTTXK,Attitude of service provider,Customer Service,0.0,Neutral
+0330-IVZHA,Attitude of service provider,Customer Service,0.0,Neutral
+2886-KEFUM,Attitude of support person,Customer Service,0.4019,Positive
+4237-RLAQD,Attitude of support person,Customer Service,0.4019,Positive
+9651-GTSAQ,Attitude of support person,Customer Service,0.4019,Positive
+3186-BAXNB,Attitude of service provider,Customer Service,0.0,Neutral
+0637-YLETY,Attitude of service provider,Customer Service,0.0,Neutral
+1157-BQCUW,Attitude of service provider,Customer Service,0.0,Neutral
+2660-EMUBI,Attitude of support person,Customer Service,0.4019,Positive
+7675-OZCZG,Competitor made better offer,Competitor,0.4404,Positive
+2003-CKLOR,Moved,Personal Reasons,0.0,Neutral
+9254-RBFON,Moved,Personal Reasons,0.0,Neutral
+1205-WNWPJ,Moved,Personal Reasons,0.0,Neutral
+9391-EOYLI,Competitor made better offer,Competitor,0.4404,Positive
+8387-MOJJT,Competitor made better offer,Competitor,0.4404,Positive
+2761-OCIAX,Competitor made better offer,Competitor,0.4404,Positive
+3068-OMWZA,Competitor made better offer,Competitor,0.4404,Positive
+6032-KRXXO,Competitor made better offer,Competitor,0.4404,Positive
+7459-RRWQZ,Competitor made better offer,Competitor,0.4404,Positive
+4154-AQUGT,Competitor made better offer,Competitor,0.4404,Positive
+3092-IGHWF,Competitor made better offer,Competitor,0.4404,Positive
+8017-LXHFA,Competitor made better offer,Competitor,0.4404,Positive
+6352-TWCAU,Competitor made better offer,Competitor,0.4404,Positive
+2929-QNSRW,Competitor made better offer,Competitor,0.4404,Positive
+1262-OPMFY,Competitor made better offer,Competitor,0.4404,Positive
+4248-QPAVC,Competitor made better offer,Competitor,0.4404,Positive
+1899-VXWXM,Competitor made better offer,Competitor,0.4404,Positive
+4690-LLKUA,Extra data charges,Other,-0.2732,Negative
+3331-HQDTW,Extra data charges,Other,-0.2732,Negative
+9490-DFPMD,Extra data charges,Other,-0.2732,Negative
+5442-XSDCW,Extra data charges,Other,-0.2732,Negative
+3049-NDXFL,Extra data charges,Other,-0.2732,Negative
+8580-AECUZ,Extra data charges,Other,-0.2732,Negative
+7963-GQRMY,Extra data charges,Other,-0.2732,Negative
+1228-FZFRV,Extra data charges,Other,-0.2732,Negative
+2058-DCJBE,Extra data charges,Other,-0.2732,Negative
+5364-XYIRR,Extra data charges,Other,-0.2732,Negative
+4829-AUOAX,Extra data charges,Other,-0.2732,Negative
+5047-LHVLY,Extra data charges,Other,-0.2732,Negative
+9158-VCTQB,Extra data charges,Other,-0.2732,Negative
+6311-UEUME,Extra data charges,Other,-0.2732,Negative
+6839-ITVZJ,Don't know,Other,0.0,Neutral
+0375-HVGXO,Don't know,Other,0.0,Neutral
+8593-WHYHV,Don't know,Other,0.0,Neutral
+6097-EQISJ,Attitude of support person,Customer Service,0.4019,Positive
+4423-YLHDV,Attitude of support person,Customer Service,0.4019,Positive
+0107-YHINA,Attitude of support person,Customer Service,0.4019,Positive
+8640-SDGKB,Attitude of support person,Customer Service,0.4019,Positive
+4116-TZAQJ,Attitude of support person,Customer Service,0.4019,Positive
+3877-JRJIP,Attitude of support person,Customer Service,0.4019,Positive
+8375-DKEBR,Attitude of support person,Customer Service,0.4019,Positive
+7511-YMXVQ,Attitude of support person,Customer Service,0.4019,Positive
+7551-JOHTI,Attitude of support person,Customer Service,0.4019,Positive
+9804-ICWBG,Attitude of support person,Customer Service,0.4019,Positive
+5318-IXUZF,Don't know,Other,0.0,Neutral
+3198-VELRD,Attitude of support person,Customer Service,0.4019,Positive
+9436-ZBZCT,Attitude of support person,Customer Service,0.4019,Positive
+7279-BUYWN,Attitude of support person,Customer Service,0.4019,Positive
+7156-MHUGY,Attitude of support person,Customer Service,0.4019,Positive
+7198-GLXTC,Attitude of support person,Customer Service,0.4019,Positive
+0516-VRYBW,Attitude of support person,Customer Service,0.4019,Positive
+8380-PEFPE,Attitude of support person,Customer Service,0.4019,Positive
+5687-DKDTV,Attitude of support person,Customer Service,0.4019,Positive
+7530-HDYDS,Attitude of support person,Customer Service,0.4019,Positive
+3096-IZETN,Attitude of support person,Customer Service,0.4019,Positive
+5922-ABDVO,Attitude of support person,Customer Service,0.4019,Positive
+9172-ANCRX,Attitude of support person,Customer Service,0.4019,Positive
+6910-HADCM,Attitude of support person,Customer Service,0.4019,Positive
+4816-LXZYW,Attitude of support person,Customer Service,0.4019,Positive
+9606-PBKBQ,Attitude of support person,Customer Service,0.4019,Positive
+3536-IQCTX,Attitude of support person,Customer Service,0.4019,Positive
+4911-BANWH,Attitude of support person,Customer Service,0.4019,Positive
+8496-EJAUI,Attitude of support person,Customer Service,0.4019,Positive
+3132-TVFDZ,Attitude of support person,Customer Service,0.4019,Positive
+8080-DDEMJ,Attitude of support person,Customer Service,0.4019,Positive
+6365-MTGZX,Attitude of support person,Customer Service,0.4019,Positive
+1349-WXNGG,Attitude of support person,Customer Service,0.4019,Positive
+6990-YNRIO,Attitude of support person,Customer Service,0.4019,Positive
+0621-TWIEM,Attitude of support person,Customer Service,0.4019,Positive
+2485-ITVKB,Attitude of support person,Customer Service,0.4019,Positive
+3669-OYSJI,Attitude of support person,Customer Service,0.4019,Positive
+1612-EOHDH,Attitude of support person,Customer Service,0.4019,Positive
+6702-OHFWR,Don't know,Other,0.0,Neutral
+4510-PYUSH,Attitude of support person,Customer Service,0.4019,Positive
+7517-SAWMO,Attitude of support person,Customer Service,0.4019,Positive
+4143-HHPMK,Attitude of support person,Customer Service,0.4019,Positive
+7054-LGEQW,Attitude of support person,Customer Service,0.4019,Positive
+0923-PNFUB,Attitude of support person,Customer Service,0.4019,Positive
+3494-JCHRQ,Attitude of support person,Customer Service,0.4019,Positive
+6474-FVJLC,Attitude of support person,Customer Service,0.4019,Positive
+8840-DQLGN,Attitude of support person,Customer Service,0.4019,Positive
+4547-LYTDD,Attitude of support person,Customer Service,0.4019,Positive
+6770-XUAGN,Attitude of support person,Customer Service,0.4019,Positive
+4193-ORFCL,Attitude of support person,Customer Service,0.4019,Positive
+7776-QWNFX,Attitude of support person,Customer Service,0.4019,Positive
+6689-TCZHQ,Attitude of support person,Customer Service,0.4019,Positive
+3143-ILDAL,Attitude of support person,Customer Service,0.4019,Positive
+4720-VSTSI,Attitude of support person,Customer Service,0.4019,Positive
+3946-MHCZW,Attitude of support person,Customer Service,0.4019,Positive
+6651-AZVTJ,Attitude of support person,Customer Service,0.4019,Positive
+4566-GOLUK,Attitude of support person,Customer Service,0.4019,Positive
+2484-DGXPZ,Attitude of support person,Customer Service,0.4019,Positive
+4587-NUKOX,Attitude of support person,Customer Service,0.4019,Positive
+0420-BWTPW,Attitude of support person,Customer Service,0.4019,Positive
+8183-ONMXC,Attitude of support person,Customer Service,0.4019,Positive
+9614-RMGHA,Attitude of support person,Customer Service,0.4019,Positive
+5054-IEXZT,Attitude of support person,Customer Service,0.4019,Positive
+5834-ASPWA,Attitude of support person,Customer Service,0.4019,Positive
+3948-XHGNA,Attitude of support person,Customer Service,0.4019,Positive
+0565-IYCGT,Attitude of support person,Customer Service,0.4019,Positive
+5445-UTODQ,Don't know,Other,0.0,Neutral
+1024-VRZHF,Attitude of support person,Customer Service,0.4019,Positive
+9497-QCMMS,Competitor made better offer,Competitor,0.4404,Positive
+0348-SDKOL,Moved,Personal Reasons,0.0,Neutral
+4373-MAVJG,Moved,Personal Reasons,0.0,Neutral
+8901-HJXTF,Moved,Personal Reasons,0.0,Neutral
+5419-KLXBN,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3424-NMNBO,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4514-GFCFI,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9828-AOQLM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8000-REIQB,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7615-ESMYF,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3858-VOBET,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1447-PJGGA,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8565-CLBZW,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9139-WQQDY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0224-HJAPT,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8086-OVPWV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9430-FRQOC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3074-GQWYX,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6845-RGTYS,Product dissatisfaction,Product & Offers,-0.4939,Negative
+8861-HGGKB,Product dissatisfaction,Product & Offers,-0.4939,Negative
+7065-YUNRY,Product dissatisfaction,Product & Offers,-0.4939,Negative
+7694-VLBWQ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4795-KTRTH,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6481-OGDOO,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3753-TSEMP,Product dissatisfaction,Product & Offers,-0.4939,Negative
+8305-VHZBZ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9172-JITSM,Don't know,Other,0.0,Neutral
+6298-QDFNH,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9961-JBNMK,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6173-ITPWD,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9734-UYXQI,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2189-UXTKY,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4958-GZWIY,Don't know,Other,0.0,Neutral
+6356-ELRKD,Don't know,Other,0.0,Neutral
+8624-GIOUT,Don't know,Other,0.0,Neutral
+6179-GJPSO,Poor expertise of online support,Customer Service,-0.1027,Negative
+3177-LASXD,Poor expertise of phone support,Customer Service,-0.1027,Negative
+4897-QSUYC,Attitude of support person,Customer Service,0.4019,Positive
+1084-UQCHV,Attitude of support person,Customer Service,0.4019,Positive
+8290-YWKHZ,Attitude of service provider,Customer Service,0.0,Neutral
+2955-BJZHG,Attitude of service provider,Customer Service,0.0,Neutral
+3806-DXQOM,Attitude of service provider,Customer Service,0.0,Neutral
+9300-RENDD,Attitude of support person,Customer Service,0.4019,Positive
+0761-AETCS,Attitude of support person,Customer Service,0.4019,Positive
+9492-TOKRI,Price too high,Pricing,0.0,Neutral
+2153-MREFK,Attitude of support person,Customer Service,0.4019,Positive
+3106-ULWFW,Attitude of service provider,Customer Service,0.0,Neutral
+0925-VYDLG,Attitude of service provider,Customer Service,0.0,Neutral
+4349-GFQHK,Attitude of service provider,Customer Service,0.0,Neutral
+7802-EFKNY,Attitude of support person,Customer Service,0.4019,Positive
+8035-BUYVG,Attitude of support person,Customer Service,0.4019,Positive
+9787-XVQIU,Attitude of support person,Customer Service,0.4019,Positive
+8945-MUQUF,Attitude of service provider,Customer Service,0.0,Neutral
+8051-HJRLT,Attitude of service provider,Customer Service,0.0,Neutral
+3023-GFLBR,Attitude of service provider,Customer Service,0.0,Neutral
+0524-IAVZO,Don't know,Other,0.0,Neutral
+2737-YNGYW,Attitude of support person,Customer Service,0.4019,Positive
+5159-YFPKQ,Attitude of support person,Customer Service,0.4019,Positive
+4021-RQSNY,Attitude of service provider,Customer Service,0.0,Neutral
+9061-TIHDA,Attitude of service provider,Customer Service,0.0,Neutral
+8699-ASUFO,Attitude of service provider,Customer Service,0.0,Neutral
+7927-AUXBZ,Attitude of support person,Customer Service,0.4019,Positive
+4695-WJZUE,Attitude of support person,Customer Service,0.4019,Positive
+7619-ODSGN,Attitude of support person,Customer Service,0.4019,Positive
+3988-RQIXO,Attitude of service provider,Customer Service,0.0,Neutral
+2514-GINMM,Attitude of service provider,Customer Service,0.0,Neutral
+5931-FLJJF,Attitude of service provider,Customer Service,0.0,Neutral
+2659-VXMWZ,Attitude of support person,Customer Service,0.4019,Positive
+3207-OYBWH,Attitude of support person,Customer Service,0.4019,Positive
+4285-GYRQC,Attitude of support person,Customer Service,0.4019,Positive
+7216-EWTRS,Attitude of service provider,Customer Service,0.0,Neutral
+8337-MSSXB,Attitude of service provider,Customer Service,0.0,Neutral
+8182-BJDSI,Attitude of service provider,Customer Service,0.0,Neutral
+2528-HFYZX,Attitude of support person,Customer Service,0.4019,Positive
+2482-CZGBB,Attitude of support person,Customer Service,0.4019,Positive
+0866-QLSIR,Attitude of support person,Customer Service,0.4019,Positive
+7181-BQYBV,Attitude of service provider,Customer Service,0.0,Neutral
+6204-IEUXJ,Attitude of service provider,Customer Service,0.0,Neutral
+4529-CKBCL,Attitude of service provider,Customer Service,0.0,Neutral
+2506-CLAKW,Attitude of support person,Customer Service,0.4019,Positive
+1583-IHQZE,Attitude of support person,Customer Service,0.4019,Positive
+0151-ONTOV,Attitude of support person,Customer Service,0.4019,Positive
+4140-MUHUG,Attitude of service provider,Customer Service,0.0,Neutral
+0320-JDNQG,Don't know,Other,0.0,Neutral
+7180-PISOG,Attitude of service provider,Customer Service,0.0,Neutral
+3571-RFHAR,Attitude of support person,Customer Service,0.4019,Positive
+9578-VRMNM,Attitude of support person,Customer Service,0.4019,Positive
+1587-FKLZB,Attitude of support person,Customer Service,0.4019,Positive
+6140-QNRQQ,Attitude of service provider,Customer Service,0.0,Neutral
+4307-KTUMW,Attitude of service provider,Customer Service,0.0,Neutral
+5440-FLBQG,Attitude of service provider,Customer Service,0.0,Neutral
+7470-MCQTK,Attitude of support person,Customer Service,0.4019,Positive
+7488-MXJIV,Attitude of support person,Customer Service,0.4019,Positive
+2027-FECZV,Attitude of support person,Customer Service,0.4019,Positive
+2672-DZUOY,Attitude of service provider,Customer Service,0.0,Neutral
+3870-MQAMG,Attitude of service provider,Customer Service,0.0,Neutral
+4800-CZMPC,Attitude of service provider,Customer Service,0.0,Neutral
+7377-DMMRI,Attitude of support person,Customer Service,0.4019,Positive
+8949-JTMAY,Attitude of support person,Customer Service,0.4019,Positive
+2774-LVQUS,Attitude of support person,Customer Service,0.4019,Positive
+3211-ILJTT,Attitude of service provider,Customer Service,0.0,Neutral
+4612-THJBS,Attitude of service provider,Customer Service,0.0,Neutral
+4094-NSEDU,Attitude of service provider,Customer Service,0.0,Neutral
+5103-MHMHY,Attitude of support person,Customer Service,0.4019,Positive
+1846-XWOQN,Competitor made better offer,Competitor,0.4404,Positive
+0235-KGSLC,Moved,Personal Reasons,0.0,Neutral
+2884-GBPFB,Moved,Personal Reasons,0.0,Neutral
+3757-NJYBX,Moved,Personal Reasons,0.0,Neutral
+5136-KCKGI,Competitor had better devices,Competitor,0.4404,Positive
+3722-WPXTK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2929-ERCFZ,Competitor offered more data,Competitor,0.0,Neutral
+7548-SEPYI,Competitor made better offer,Competitor,0.4404,Positive
+8835-VSDSE,Competitor had better devices,Competitor,0.4404,Positive
+1623-NLDOT,Competitor had better devices,Competitor,0.4404,Positive
+9898-KZQDZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5236-PERKL,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7854-FOKSF,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2519-FAKOD,Competitor offered more data,Competitor,0.0,Neutral
+8263-JQAIK,Competitor offered more data,Competitor,0.0,Neutral
+7089-IVVAZ,Competitor offered more data,Competitor,0.0,Neutral
+2205-YMZZJ,Competitor made better offer,Competitor,0.4404,Positive
+1254-IZEYF,Competitor made better offer,Competitor,0.4404,Positive
+9221-OTIVJ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3325-FUYCG,Service dissatisfaction,Customer Service,-0.4939,Negative
+5908-QMGOE,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8481-YYXWG,Network reliability,Network Quality,0.0,Neutral
+2609-IAICY,Limited range of services,Customer Service,-0.2263,Negative
+1740-CSDJP,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+2636-OHFMN,Long distance charges,Other,-0.2732,Negative
+1323-OOEPC,Extra data charges,Other,-0.2732,Negative
+0397-GZBBC,Price too high,Pricing,0.0,Neutral
+7641-EUYET,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9921-ZVRHG,Service dissatisfaction,Customer Service,-0.4939,Negative
+4701-MLJPN,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9206-GVPEQ,Network reliability,Network Quality,0.0,Neutral
+1596-BBVTG,Don't know,Other,0.0,Neutral
+8433-WXGNA,Don't know,Other,0.0,Neutral
+3707-GNWHM,Don't know,Other,0.0,Neutral
+8922-LIEGH,Poor expertise of online support,Customer Service,-0.1027,Negative
+8245-UMPYT,Poor expertise of phone support,Customer Service,-0.1027,Negative
+5186-SAMNZ,Price too high,Pricing,0.0,Neutral
+5373-SFODM,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5766-ZJYBB,Service dissatisfaction,Customer Service,-0.4939,Negative
+8931-GJJIQ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+4277-PVRAN,Network reliability,Network Quality,0.0,Neutral
+0022-TCJCI,Limited range of services,Customer Service,-0.2263,Negative
+0203-HHYIJ,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+0952-KMEEH,Long distance charges,Other,-0.2732,Negative
+8178-EYZUO,Extra data charges,Other,-0.2732,Negative
+5130-IEKQT,Price too high,Pricing,0.0,Neutral
+3230-WYKIR,Product dissatisfaction,Product & Offers,-0.4939,Negative
+0407-BDJKB,Service dissatisfaction,Customer Service,-0.4939,Negative
+9600-UDOPK,Lack of self-service on Website,Customer Service,-0.3182,Negative
+4074-SJFFA,Network reliability,Network Quality,0.0,Neutral
+3269-ATYWD,Don't know,Other,0.0,Neutral
+4910-GMJOT,Don't know,Other,0.0,Neutral
+0354-WYROK,Don't know,Other,0.0,Neutral
+7576-OYWBN,Price too high,Pricing,0.0,Neutral
+5539-TMZLF,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4323-SADQS,Service dissatisfaction,Customer Service,-0.4939,Negative
+4446-BZKHU,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5202-IVJNU,Network reliability,Network Quality,0.0,Neutral
+5976-JCJRH,Limited range of services,Customer Service,-0.2263,Negative
+0137-OCGAB,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+3351-NQLDI,Long distance charges,Other,-0.2732,Negative
+7593-JNWRU,Extra data charges,Other,-0.2732,Negative
+4588-YBNIB,Price too high,Pricing,0.0,Neutral
+3336-JORSO,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5028-GZLDO,Service dissatisfaction,Customer Service,-0.4939,Negative
+6861-XWTWQ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+6877-TJMBR,Network reliability,Network Quality,0.0,Neutral
+6769-DCQLI,Don't know,Other,0.0,Neutral
+2433-KMEAS,Don't know,Other,0.0,Neutral
+2195-ZRVAX,Don't know,Other,0.0,Neutral
+3550-SAHFP,Price too high,Pricing,0.0,Neutral
+2011-TRQYE,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4873-ILOLJ,Service dissatisfaction,Customer Service,-0.4939,Negative
+2725-KXXWT,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9565-DJPIB,Network reliability,Network Quality,0.0,Neutral
+8348-HFYIV,Limited range of services,Customer Service,-0.2263,Negative
+6849-WLEYG,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+4659-NZRUF,Long distance charges,Other,-0.2732,Negative
+8429-XIBUM,Extra data charges,Other,-0.2732,Negative
+2608-BHKFN,Price too high,Pricing,0.0,Neutral
+7341-LXCAF,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9462-MJUAW,Service dissatisfaction,Customer Service,-0.4939,Negative
+8128-YVJRG,Lack of self-service on Website,Customer Service,-0.3182,Negative
+4283-FUTGF,Network reliability,Network Quality,0.0,Neutral
+1569-TTNYJ,Don't know,Other,0.0,Neutral
+2397-BRLOM,Don't know,Other,0.0,Neutral
+4749-VFKVB,Don't know,Other,0.0,Neutral
+7598-UAASY,Attitude of service provider,Customer Service,0.0,Neutral
+7938-OUHIO,Attitude of service provider,Customer Service,0.0,Neutral
+8510-AWCXC,Attitude of support person,Customer Service,0.4019,Positive
+0431-APWVY,Don't know,Other,0.0,Neutral
+3426-NIYYL,Attitude of support person,Customer Service,0.4019,Positive
+8225-BTJAU,Attitude of service provider,Customer Service,0.0,Neutral
+3387-VATUS,Attitude of service provider,Customer Service,0.0,Neutral
+1143-NMNQJ,Attitude of service provider,Customer Service,0.0,Neutral
+0415-MOSGF,Attitude of support person,Customer Service,0.4019,Positive
+1724-BQUHA,Attitude of support person,Customer Service,0.4019,Positive
+4826-XTSOH,Attitude of support person,Customer Service,0.4019,Positive
+2495-INZWQ,Attitude of service provider,Customer Service,0.0,Neutral
+4139-SUGLD,Attitude of service provider,Customer Service,0.0,Neutral
+6857-VWJDT,Attitude of service provider,Customer Service,0.0,Neutral
+5624-BQSSA,Attitude of support person,Customer Service,0.4019,Positive
+2408-WITXK,Deceased,Personal Reasons,0.0,Neutral
+5577-OTWWW,Moved,Personal Reasons,0.0,Neutral
+6100-QQHEB,Moved,Personal Reasons,0.0,Neutral
+2634-HCZGT,Moved,Personal Reasons,0.0,Neutral
+7503-QQRVF,Competitor had better devices,Competitor,0.4404,Positive
+2691-NZETQ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4404-HIBDJ,Competitor offered more data,Competitor,0.0,Neutral
+7295-JOMMD,Competitor made better offer,Competitor,0.4404,Positive
+5013-SBUIH,Competitor had better devices,Competitor,0.4404,Positive
+0709-TVGUR,Competitor had better devices,Competitor,0.4404,Positive
+6023-YEBUP,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7209-JCUDS,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3001-CBHLQ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6158-DWPZT,Competitor offered more data,Competitor,0.0,Neutral
+3763-GCZHZ,Competitor offered more data,Competitor,0.0,Neutral
+0772-GYEQQ,Competitor offered more data,Competitor,0.0,Neutral
+4831-EOBFE,Don't know,Other,0.0,Neutral
+4102-OQUPX,Competitor made better offer,Competitor,0.4404,Positive
+9170-GYZJC,Price too high,Pricing,0.0,Neutral
+3999-QGRJH,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2454-RPBRZ,Service dissatisfaction,Customer Service,-0.4939,Negative
+2002-MZHWP,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2265-CYWIV,Network reliability,Network Quality,0.0,Neutral
+2004-OCQXK,Limited range of services,Customer Service,-0.2263,Negative
+5027-QPKTE,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+2672-HUYVI,Long distance charges,Other,-0.2732,Negative
+7508-MYBOG,Extra data charges,Other,-0.2732,Negative
+0148-DCDOS,Price too high,Pricing,0.0,Neutral
+9992-RRAMN,Product dissatisfaction,Product & Offers,-0.4939,Negative
+0310-MVLET,Service dissatisfaction,Customer Service,-0.4939,Negative
+4550-VBOFE,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5696-QURRL,Network reliability,Network Quality,0.0,Neutral
+7409-KIUTL,Don't know,Other,0.0,Neutral
+1732-VHUBQ,Don't know,Other,0.0,Neutral
+0495-RVCBF,Don't know,Other,0.0,Neutral
+7854-EDSSA,Poor expertise of online support,Customer Service,-0.1027,Negative
+8869-TORSS,Poor expertise of phone support,Customer Service,-0.1027,Negative
+0679-IDSTG,Price too high,Pricing,0.0,Neutral
+2115-BFTIW,Product dissatisfaction,Product & Offers,-0.4939,Negative
+0611-DFXKO,Service dissatisfaction,Customer Service,-0.4939,Negative
+7780-OTDSO,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9747-DDZOS,Network reliability,Network Quality,0.0,Neutral
+0564-JJHGS,Limited range of services,Customer Service,-0.2263,Negative
+3348-CFRNX,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+1428-GTBJJ,Long distance charges,Other,-0.2732,Negative
+8802-UNOJF,Extra data charges,Other,-0.2732,Negative
+6313-GIDIT,Price too high,Pricing,0.0,Neutral
+2845-AFFTX,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2249-YPRNG,Service dissatisfaction,Customer Service,-0.4939,Negative
+7410-YTJIK,Lack of self-service on Website,Customer Service,-0.3182,Negative
+4626-GYCZP,Network reliability,Network Quality,0.0,Neutral
+5590-BYNII,Don't know,Other,0.0,Neutral
+3237-AJGEH,Don't know,Other,0.0,Neutral
+1591-NFNLQ,Don't know,Other,0.0,Neutral
+2815-CPTUL,Price too high,Pricing,0.0,Neutral
+0596-BQCEQ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+1481-ZUWZA,Service dissatisfaction,Customer Service,-0.4939,Negative
+2309-OSFEU,Lack of self-service on Website,Customer Service,-0.3182,Negative
+1891-FZYSA,Network reliability,Network Quality,0.0,Neutral
+7613-LLQFO,Limited range of services,Customer Service,-0.2263,Negative
+2640-PMGFL,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+3801-HMYNL,Long distance charges,Other,-0.2732,Negative
+9685-WKZGT,Extra data charges,Other,-0.2732,Negative
+6022-UGGSO,Price too high,Pricing,0.0,Neutral
+4484-CGXFK,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6214-EDAKZ,Service dissatisfaction,Customer Service,-0.4939,Negative
+6127-ISGTU,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8740-XLHDR,Network reliability,Network Quality,0.0,Neutral
+1208-DNHLN,Don't know,Other,0.0,Neutral
+1761-AEZZR,Don't know,Other,0.0,Neutral
+3923-CSIHK,Don't know,Other,0.0,Neutral
+7120-RFMVS,Price too high,Pricing,0.0,Neutral
+7317-GGVPB,Product dissatisfaction,Product & Offers,-0.4939,Negative
+1322-AGOQM,Service dissatisfaction,Customer Service,-0.4939,Negative
+3677-IYRBF,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5692-FPTAH,Network reliability,Network Quality,0.0,Neutral
+1550-LOAHA,Limited range of services,Customer Service,-0.2263,Negative
+0268-QKIWO,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+0876-WDUUZ,Long distance charges,Other,-0.2732,Negative
+0617-FHSGK,Extra data charges,Other,-0.2732,Negative
+2858-MOFSQ,Price too high,Pricing,0.0,Neutral
+8118-LSUEL,Product dissatisfaction,Product & Offers,-0.4939,Negative
+7005-CCBKV,Service dissatisfaction,Customer Service,-0.4939,Negative
+4250-FDVOU,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5277-ZLOOR,Network reliability,Network Quality,0.0,Neutral
+2141-RRYGO,Don't know,Other,0.0,Neutral
+6376-GAHQE,Don't know,Other,0.0,Neutral
+5052-PNLOS,Don't know,Other,0.0,Neutral
+6979-ZNSFF,Price too high,Pricing,0.0,Neutral
+2386-LAHRK,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6032-IGALN,Service dissatisfaction,Customer Service,-0.4939,Negative
+4248-HCETZ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+0516-WJVXC,Network reliability,Network Quality,0.0,Neutral
+9174-FKWZE,Limited range of services,Customer Service,-0.2263,Negative
+8809-RIHDD,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+4822-NGOCH,Long distance charges,Other,-0.2732,Negative
+5307-DZCVC,Extra data charges,Other,-0.2732,Negative
+8679-JOEVF,Price too high,Pricing,0.0,Neutral
+1432-FPAXX,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4803-AXVYP,Service dissatisfaction,Customer Service,-0.4939,Negative
+3884-HCSWG,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5077-DXTCG,Network reliability,Network Quality,0.0,Neutral
+1142-WACZW,Don't know,Other,0.0,Neutral
+5649-ANRML,Don't know,Other,0.0,Neutral
+4892-VLANZ,Don't know,Other,0.0,Neutral
+2919-HBCJO,Moved,Personal Reasons,0.0,Neutral
+4236-XPXAV,Moved,Personal Reasons,0.0,Neutral
+3030-YZADT,Competitor had better devices,Competitor,0.4404,Positive
+7410-KTVFV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8393-DLHGA,Competitor offered more data,Competitor,0.0,Neutral
+7395-IGJOS,Competitor made better offer,Competitor,0.4404,Positive
+2834-SPCJV,Competitor had better devices,Competitor,0.4404,Positive
+7890-VYYWG,Competitor had better devices,Competitor,0.4404,Positive
+9907-SWKKF,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0587-DMGBH,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6397-JNZZG,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3523-QRQLL,Competitor offered more data,Competitor,0.0,Neutral
+0895-DQHEW,Competitor offered more data,Competitor,0.0,Neutral
+8149-RSOUN,Competitor offered more data,Competitor,0.0,Neutral
+7250-EQKIY,Competitor made better offer,Competitor,0.4404,Positive
+4013-UBXWQ,Competitor made better offer,Competitor,0.4404,Positive
+5519-NPHVG,Price too high,Pricing,0.0,Neutral
+8849-GYOKR,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3148-BLQJT,Service dissatisfaction,Customer Service,-0.4939,Negative
+0461-CVKMU,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8806-EAGWC,Network reliability,Network Quality,0.0,Neutral
+7779-LGOVN,Limited range of services,Customer Service,-0.2263,Negative
+9710-ZUSHQ,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+4183-WCSEP,Long distance charges,Other,-0.2732,Negative
+5498-TXHLF,Extra data charges,Other,-0.2732,Negative
+9722-UJOJR,Price too high,Pricing,0.0,Neutral
+3902-FOIGH,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6772-KSATR,Service dissatisfaction,Customer Service,-0.4939,Negative
+7112-OPOTK,Lack of self-service on Website,Customer Service,-0.3182,Negative
+4210-QFJMF,Network reliability,Network Quality,0.0,Neutral
+3318-OSATS,Don't know,Other,0.0,Neutral
+5828-AVIPD,Don't know,Other,0.0,Neutral
+1086-LXKFY,Don't know,Other,0.0,Neutral
+2636-ALXXZ,Poor expertise of online support,Customer Service,-0.1027,Negative
+7774-OJSXI,Poor expertise of phone support,Customer Service,-0.1027,Negative
+7786-WBJYI,Price too high,Pricing,0.0,Neutral
+9885-CSMWE,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5016-ETTFF,Service dissatisfaction,Customer Service,-0.4939,Negative
+3866-MDTUB,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8058-JMEQO,Network reliability,Network Quality,0.0,Neutral
+0697-ZMSWS,Limited range of services,Customer Service,-0.2263,Negative
+7657-DYEPJ,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+8276-MQBYC,Long distance charges,Other,-0.2732,Negative
+7593-XFKDI,Extra data charges,Other,-0.2732,Negative
+0337-CNPZE,Price too high,Pricing,0.0,Neutral
+1513-XNPPH,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6015-VVHHE,Service dissatisfaction,Customer Service,-0.4939,Negative
+6347-DCUIK,Lack of self-service on Website,Customer Service,-0.3182,Negative
+0897-FEGMU,Network reliability,Network Quality,0.0,Neutral
+7663-RGWBC,Don't know,Other,0.0,Neutral
+1120-BMWUB,Don't know,Other,0.0,Neutral
+9124-LHCJQ,Price too high,Pricing,0.0,Neutral
+2235-ZGKPT,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3891-PUQOD,Service dissatisfaction,Customer Service,-0.4939,Negative
+0689-NKYLF,Lack of self-service on Website,Customer Service,-0.3182,Negative
+3658-KIBGF,Network reliability,Network Quality,0.0,Neutral
+5519-YLDGW,Limited range of services,Customer Service,-0.2263,Negative
+4946-EDSEW,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+2516-VQRRV,Long distance charges,Other,-0.2732,Negative
+7580-UGXNC,Extra data charges,Other,-0.2732,Negative
+5178-LMXOP,Price too high,Pricing,0.0,Neutral
+8185-UPYBR,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4585-HETAI,Service dissatisfaction,Customer Service,-0.4939,Negative
+7526-BEZQB,Lack of self-service on Website,Customer Service,-0.3182,Negative
+4951-UKAAQ,Network reliability,Network Quality,0.0,Neutral
+2108-YKQTY,Don't know,Other,0.0,Neutral
+4918-QLLIW,Don't know,Other,0.0,Neutral
+7056-IMHCC,Price too high,Pricing,0.0,Neutral
+1625-JAIIY,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2947-DOMLJ,Service dissatisfaction,Customer Service,-0.4939,Negative
+4112-LUEIZ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+4510-HIMLV,Network reliability,Network Quality,0.0,Neutral
+8749-JMNKX,Limited range of services,Customer Service,-0.2263,Negative
+2430-USGXP,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+5955-ERIHD,Long distance charges,Other,-0.2732,Negative
+0917-EZOLA,Extra data charges,Other,-0.2732,Negative
+5949-EBSQK,Price too high,Pricing,0.0,Neutral
+7274-RTAPZ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+0311-UNPFF,Service dissatisfaction,Customer Service,-0.4939,Negative
+3834-XUIFC,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8414-MYSHR,Network reliability,Network Quality,0.0,Neutral
+7599-FKVXZ,Don't know,Other,0.0,Neutral
+8229-TNIQA,Don't know,Other,0.0,Neutral
+6221-AVQYL,Price too high,Pricing,0.0,Neutral
+7743-EXURX,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5569-KGJHX,Service dissatisfaction,Customer Service,-0.4939,Negative
+4988-IQIGL,Lack of self-service on Website,Customer Service,-0.3182,Negative
+7730-IUTDZ,Network reliability,Network Quality,0.0,Neutral
+0426-TIRNE,Limited range of services,Customer Service,-0.2263,Negative
+7587-RZNME,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+0748-RDGGM,Long distance charges,Other,-0.2732,Negative
+4706-AXVKM,Extra data charges,Other,-0.2732,Negative
+5889-JTMUL,Price too high,Pricing,0.0,Neutral
+9026-RNUJS,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3746-EUBYR,Service dissatisfaction,Customer Service,-0.4939,Negative
+2332-EFBJY,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9474-PHLYD,Network reliability,Network Quality,0.0,Neutral
+2165-VOEGB,Don't know,Other,0.0,Neutral
+2219-MVUSO,Don't know,Other,0.0,Neutral
+8914-RBTSB,Don't know,Other,0.0,Neutral
+0963-ZBDRN,Attitude of support person,Customer Service,0.4019,Positive
+7594-RQHXR,Deceased,Personal Reasons,0.0,Neutral
+6331-EWIEB,Moved,Personal Reasons,0.0,Neutral
+5998-VVEJY,Moved,Personal Reasons,0.0,Neutral
+1624-NALOJ,Moved,Personal Reasons,0.0,Neutral
+4317-VTEOA,Competitor had better devices,Competitor,0.4404,Positive
+1670-SVOWZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7541-YLXCL,Don't know,Other,0.0,Neutral
+0260-ZDLGK,Competitor made better offer,Competitor,0.4404,Positive
+8722-NGNBH,Competitor had better devices,Competitor,0.4404,Positive
+6210-KBBPI,Competitor had better devices,Competitor,0.4404,Positive
+0133-BMFZO,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6128-CZOMY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9540-JYROE,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2260-USTRB,Competitor offered more data,Competitor,0.0,Neutral
+3656-TKRVZ,Competitor offered more data,Competitor,0.0,Neutral
+8623-TMRBY,Competitor offered more data,Competitor,0.0,Neutral
+1501-SGHBW,Competitor made better offer,Competitor,0.4404,Positive
+3208-YPIOE,Competitor made better offer,Competitor,0.4404,Positive
+2612-RANWT,Price too high,Pricing,0.0,Neutral
+6900-PXRMS,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3346-BRMIS,Service dissatisfaction,Customer Service,-0.4939,Negative
+2933-FILNV,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9986-BONCE,Network reliability,Network Quality,0.0,Neutral
+2722-JMONI,Limited range of services,Customer Service,-0.2263,Negative
+4083-EUGRJ,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+7579-OOPEC,Long distance charges,Other,-0.2732,Negative
+1771-OADNZ,Extra data charges,Other,-0.2732,Negative
+0612-RTZZA,Price too high,Pricing,0.0,Neutral
+6410-LEFEN,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3194-ORPIK,Service dissatisfaction,Customer Service,-0.4939,Negative
+8816-VXNZD,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9378-FXTIZ,Network reliability,Network Quality,0.0,Neutral
+1723-HKXJQ,Don't know,Other,0.0,Neutral
+7825-GKXMW,Don't know,Other,0.0,Neutral
+1240-KNSEZ,Don't know,Other,0.0,Neutral
+0836-SEYLU,Poor expertise of online support,Customer Service,-0.1027,Negative
+4433-JCGCG,Poor expertise of phone support,Customer Service,-0.1027,Negative
+3716-BDVDB,Competitor had better devices,Competitor,0.4404,Positive
+5899-MQZZL,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6849-OYAMU,Competitor offered more data,Competitor,0.0,Neutral
+9488-HGMJH,Competitor made better offer,Competitor,0.4404,Positive
+6038-GCYEC,Competitor had better devices,Competitor,0.4404,Positive
+1150-WFARN,Competitor had better devices,Competitor,0.4404,Positive
+3144-AUDBS,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5616-PRTNT,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4818-QIUFN,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6961-VCPMC,Competitor offered more data,Competitor,0.0,Neutral
+6688-UZPWD,Competitor offered more data,Competitor,0.0,Neutral
+2839-RFSQE,Competitor offered more data,Competitor,0.0,Neutral
+0968-GSIKN,Competitor made better offer,Competitor,0.4404,Positive
+1965-DDBWU,Competitor made better offer,Competitor,0.4404,Positive
+9057-SIHCH,Price too high,Pricing,0.0,Neutral
+6771-XWBDM,Product dissatisfaction,Product & Offers,-0.4939,Negative
+8601-QACRS,Service dissatisfaction,Customer Service,-0.4939,Negative
+2391-SOORI,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2645-QTLMB,Network reliability,Network Quality,0.0,Neutral
+4806-HIPDW,Limited range of services,Customer Service,-0.2263,Negative
+4424-TKOPW,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+8443-ZRDBZ,Long distance charges,Other,-0.2732,Negative
+9136-ALYBR,Extra data charges,Other,-0.2732,Negative
+7479-NITWS,Price too high,Pricing,0.0,Neutral
+2959-MJHIC,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4201-JMNGR,Service dissatisfaction,Customer Service,-0.4939,Negative
+5960-WPXQM,Lack of self-service on Website,Customer Service,-0.3182,Negative
+0684-AOSIH,Network reliability,Network Quality,0.0,Neutral
+8260-NGFNY,Don't know,Other,0.0,Neutral
+1866-RZZQS,Competitor had better devices,Competitor,0.4404,Positive
+8631-NBHFZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4958-XCBDQ,Competitor offered more data,Competitor,0.0,Neutral
+8337-UPOAQ,Competitor made better offer,Competitor,0.4404,Positive
+1725-IQNIY,Competitor had better devices,Competitor,0.4404,Positive
+6598-RFFVI,Competitor had better devices,Competitor,0.4404,Positive
+6712-OAWRH,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8614-VGMMV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2930-UOTMB,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5914-DVBWJ,Competitor offered more data,Competitor,0.0,Neutral
+2533-QVMSK,Competitor offered more data,Competitor,0.0,Neutral
+8644-XLFBW,Competitor offered more data,Competitor,0.0,Neutral
+8625-AZYZY,Competitor made better offer,Competitor,0.4404,Positive
+9306-CPCBC,Competitor made better offer,Competitor,0.4404,Positive
+1833-VGRUM,Price too high,Pricing,0.0,Neutral
+8374-XGEJJ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2656-TABEH,Service dissatisfaction,Customer Service,-0.4939,Negative
+6946-LMSQS,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2325-ZUSFD,Network reliability,Network Quality,0.0,Neutral
+3932-CMDTD,Limited range of services,Customer Service,-0.2263,Negative
+4039-HEUNW,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+0812-WUPTB,Long distance charges,Other,-0.2732,Negative
+3594-UVONA,Extra data charges,Other,-0.2732,Negative
+0004-TLHLJ,Price too high,Pricing,0.0,Neutral
+5089-IFSDP,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4817-VYYWS,Service dissatisfaction,Customer Service,-0.4939,Negative
+1396-QWFBJ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5299-SJCZT,Network reliability,Network Quality,0.0,Neutral
+2403-BCASL,Don't know,Other,0.0,Neutral
+2898-LSJGD,Attitude of service provider,Customer Service,0.0,Neutral
+7359-PTSXY,Attitude of support person,Customer Service,0.4019,Positive
+4503-BDXBD,Attitude of support person,Customer Service,0.4019,Positive
+6086-ESGRL,Attitude of support person,Customer Service,0.4019,Positive
+3886-CERTZ,Attitude of service provider,Customer Service,0.0,Neutral
+5759-RCVCB,Attitude of service provider,Customer Service,0.0,Neutral
+6372-RFVNS,Attitude of service provider,Customer Service,0.0,Neutral
+8938-UMKPI,Attitude of support person,Customer Service,0.4019,Positive
+0991-BRRFB,Deceased,Personal Reasons,0.0,Neutral
+3871-IKPYH,Moved,Personal Reasons,0.0,Neutral
+6319-IEJWJ,Moved,Personal Reasons,0.0,Neutral
+9025-AOMKI,Moved,Personal Reasons,0.0,Neutral
+5275-SQEIZ,Competitor had better devices,Competitor,0.4404,Positive
+7716-YTYHG,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4390-KYULV,Competitor offered more data,Competitor,0.0,Neutral
+1304-NECVQ,Competitor made better offer,Competitor,0.4404,Positive
+8945-GRKHX,Competitor had better devices,Competitor,0.4404,Positive
+6959-UWKHF,Competitor had better devices,Competitor,0.4404,Positive
+3815-SLMEF,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5154-VEKBL,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5655-JSMZM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4505-EXZHB,Competitor offered more data,Competitor,0.0,Neutral
+4587-VVTOX,Competitor offered more data,Competitor,0.0,Neutral
+4652-NNHNY,Don't know,Other,0.0,Neutral
+8972-HJWNV,Competitor made better offer,Competitor,0.4404,Positive
+8515-OCTJS,Competitor made better offer,Competitor,0.4404,Positive
+2860-RANUS,Price too high,Pricing,0.0,Neutral
+5261-QSHQM,Product dissatisfaction,Product & Offers,-0.4939,Negative
+8868-WOZGU,Service dissatisfaction,Customer Service,-0.4939,Negative
+1334-FJSVR,Lack of self-service on Website,Customer Service,-0.3182,Negative
+7625-XCQRH,Network reliability,Network Quality,0.0,Neutral
+1731-TVIUK,Limited range of services,Customer Service,-0.2263,Negative
+0406-BPDVR,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+0618-XWMSS,Long distance charges,Other,-0.2732,Negative
+5276-KQWHG,Extra data charges,Other,-0.2732,Negative
+2565-JSLRY,Price too high,Pricing,0.0,Neutral
+6689-KXGBO,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6615-NGGZJ,Service dissatisfaction,Customer Service,-0.4939,Negative
+4255-DDUOU,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2984-MIIZL,Network reliability,Network Quality,0.0,Neutral
+5590-YRFJT,Don't know,Other,0.0,Neutral
+3677-TNKIO,Don't know,Other,0.0,Neutral
+9667-EQRXU,Don't know,Other,0.0,Neutral
+3329-WDIOK,Poor expertise of online support,Customer Service,-0.1027,Negative
+2873-ZLIWT,Poor expertise of phone support,Customer Service,-0.1027,Negative
+3415-TAILE,Competitor had better devices,Competitor,0.4404,Positive
+1915-IOFGU,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3045-XETSH,Competitor offered more data,Competitor,0.0,Neutral
+7239-HZZCX,Competitor made better offer,Competitor,0.4404,Positive
+7683-CBDKJ,Competitor had better devices,Competitor,0.4404,Positive
+0946-CLJTI,Competitor had better devices,Competitor,0.4404,Positive
+0628-CNQRM,Don't know,Other,0.0,Neutral
+7665-TOALD,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0112-QWPNC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0324-BRPCJ,Competitor offered more data,Competitor,0.0,Neutral
+2777-PHDEI,Competitor offered more data,Competitor,0.0,Neutral
+1196-AMORA,Competitor offered more data,Competitor,0.0,Neutral
+4282-YMKNA,Competitor made better offer,Competitor,0.4404,Positive
+5356-RHIPP,Competitor made better offer,Competitor,0.4404,Positive
+9189-JWSHV,Price too high,Pricing,0.0,Neutral
+0746-JTRFU,Product dissatisfaction,Product & Offers,-0.4939,Negative
+0576-WNXXC,Service dissatisfaction,Customer Service,-0.4939,Negative
+4628-CTTLA,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2876-VBBBL,Network reliability,Network Quality,0.0,Neutral
+6834-NXDCA,Limited range of services,Customer Service,-0.2263,Negative
+5597-GLBUC,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+2748-MYRVK,Long distance charges,Other,-0.2732,Negative
+4822-YCXMX,Extra data charges,Other,-0.2732,Negative
+9821-POOTN,Price too high,Pricing,0.0,Neutral
+6559-ILWKJ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4229-CZMLL,Service dissatisfaction,Customer Service,-0.4939,Negative
+3663-MITLP,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9025-ZRPVR,Network reliability,Network Quality,0.0,Neutral
+3285-UCQVC,Don't know,Other,0.0,Neutral
+5482-PLVPE,Competitor had better devices,Competitor,0.4404,Positive
+4902-OHLSK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0495-ZBNGW,Competitor offered more data,Competitor,0.0,Neutral
+2357-COQEK,Competitor made better offer,Competitor,0.4404,Positive
+3737-GCSPV,Competitor had better devices,Competitor,0.4404,Positive
+4088-YLDSU,Competitor had better devices,Competitor,0.4404,Positive
+2034-CGRHZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5797-APWZC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3683-QKIUE,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4228-ZGYUW,Competitor offered more data,Competitor,0.0,Neutral
+3519-ZKXGG,Competitor offered more data,Competitor,0.0,Neutral
+6416-TVAIH,Competitor offered more data,Competitor,0.0,Neutral
+5108-ADXWO,Competitor made better offer,Competitor,0.4404,Positive
+3066-RRJIO,Competitor made better offer,Competitor,0.4404,Positive
+6715-OFDBP,Price too high,Pricing,0.0,Neutral
+1567-DSCIC,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2150-UWTFY,Service dissatisfaction,Customer Service,-0.4939,Negative
+2683-BPJSO,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2157-MXBJS,Network reliability,Network Quality,0.0,Neutral
+9360-AHGNL,Limited range of services,Customer Service,-0.2263,Negative
+1087-UDSIH,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+5485-WUYWF,Long distance charges,Other,-0.2732,Negative
+2632-UCGVD,Extra data charges,Other,-0.2732,Negative
+5445-PZWGX,Price too high,Pricing,0.0,Neutral
+9170-CCKOU,Product dissatisfaction,Product & Offers,-0.4939,Negative
+1043-YCUTE,Service dissatisfaction,Customer Service,-0.4939,Negative
+3814-MLAXC,Lack of self-service on Website,Customer Service,-0.3182,Negative
+1226-UDFZR,Network reliability,Network Quality,0.0,Neutral
+6425-YQLLO,Don't know,Other,0.0,Neutral
+5442-UTCVD,Attitude of service provider,Customer Service,0.0,Neutral
+7734-DBOAI,Attitude of support person,Customer Service,0.4019,Positive
+8559-CIZFV,Don't know,Other,0.0,Neutral
+2091-RFFBA,Attitude of support person,Customer Service,0.4019,Positive
+2114-MGINA,Attitude of support person,Customer Service,0.4019,Positive
+4489-SNOJF,Don't know,Other,0.0,Neutral
+6899-PPEEA,Attitude of service provider,Customer Service,0.0,Neutral
+2187-LZGPL,Attitude of service provider,Customer Service,0.0,Neutral
+4597-NUCQV,Attitude of support person,Customer Service,0.4019,Positive
+9019-QVLZD,Competitor made better offer,Competitor,0.4404,Positive
+3707-LRWZD,Moved,Personal Reasons,0.0,Neutral
+1455-ESIQH,Moved,Personal Reasons,0.0,Neutral
+2979-SXESE,Moved,Personal Reasons,0.0,Neutral
+4013-TLDHQ,Competitor had better devices,Competitor,0.4404,Positive
+3754-DXMRT,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7130-VTEWQ,Competitor offered more data,Competitor,0.0,Neutral
+6121-VZNQB,Competitor made better offer,Competitor,0.4404,Positive
+7903-CMPEY,Competitor had better devices,Competitor,0.4404,Positive
+6996-KNSML,Competitor had better devices,Competitor,0.4404,Positive
+1704-NRWYE,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2592-SEIFQ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7481-ATQQS,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8642-GVWRF,Competitor offered more data,Competitor,0.0,Neutral
+3400-ESFUW,Competitor offered more data,Competitor,0.0,Neutral
+2057-ZBLPD,Competitor offered more data,Competitor,0.0,Neutral
+5502-RLUYV,Competitor made better offer,Competitor,0.4404,Positive
+0023-HGHWL,Competitor made better offer,Competitor,0.4404,Positive
+9039-RBEEE,Price too high,Pricing,0.0,Neutral
+8417-FMLZI,Product dissatisfaction,Product & Offers,-0.4939,Negative
+1792-UXAFY,Service dissatisfaction,Customer Service,-0.4939,Negative
+0515-YPMCW,Lack of self-service on Website,Customer Service,-0.3182,Negative
+0378-XSZPU,Network reliability,Network Quality,0.0,Neutral
+4729-XKASR,Limited range of services,Customer Service,-0.2263,Negative
+5449-FIBXJ,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+9837-BMCLM,Long distance charges,Other,-0.2732,Negative
+0137-UDEUO,Extra data charges,Other,-0.2732,Negative
+6161-UUUTA,Price too high,Pricing,0.0,Neutral
+6543-XRMYR,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4925-LMHOK,Service dissatisfaction,Customer Service,-0.4939,Negative
+1455-UGQVH,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8280-MQRQN,Network reliability,Network Quality,0.0,Neutral
+2037-SGXHH,Don't know,Other,0.0,Neutral
+3178-FESZO,Don't know,Other,0.0,Neutral
+6087-MVHJH,Don't know,Other,0.0,Neutral
+4603-JANFB,Poor expertise of online support,Customer Service,-0.1027,Negative
+3018-TFTSU,Poor expertise of phone support,Customer Service,-0.1027,Negative
+4806-KEXQR,Competitor had better devices,Competitor,0.4404,Positive
+7083-YNSKY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2479-BRAMR,Competitor offered more data,Competitor,0.0,Neutral
+7434-SHXLS,Competitor made better offer,Competitor,0.4404,Positive
+7908-QCBCA,Competitor had better devices,Competitor,0.4404,Positive
+6711-FLDFB,Competitor had better devices,Competitor,0.4404,Positive
+3714-JTVOV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4702-IOQDC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6178-KFNHS,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1264-BYWMS,Competitor offered more data,Competitor,0.0,Neutral
+9658-WYUFB,Competitor offered more data,Competitor,0.0,Neutral
+2013-SGDXK,Competitor offered more data,Competitor,0.0,Neutral
+8580-QVLOC,Competitor made better offer,Competitor,0.4404,Positive
+2012-NWRPA,Competitor made better offer,Competitor,0.4404,Positive
+8808-ELEHO,Price too high,Pricing,0.0,Neutral
+3506-LCJDC,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3934-HXCFZ,Service dissatisfaction,Customer Service,-0.4939,Negative
+7666-WKRON,Lack of self-service on Website,Customer Service,-0.3182,Negative
+4910-AQFFX,Network reliability,Network Quality,0.0,Neutral
+2154-KVJFF,Limited range of services,Customer Service,-0.2263,Negative
+9647-ERGBE,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+3428-XZMAZ,Long distance charges,Other,-0.2732,Negative
+0378-TOVMS,Extra data charges,Other,-0.2732,Negative
+4355-HBJHH,Price too high,Pricing,0.0,Neutral
+9058-CBREO,Product dissatisfaction,Product & Offers,-0.4939,Negative
+0318-QUUOB,Service dissatisfaction,Customer Service,-0.4939,Negative
+5520-FVEWJ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5572-ZDXHY,Network reliability,Network Quality,0.0,Neutral
+3750-CKVKH,Don't know,Other,0.0,Neutral
+8063-GBATB,Competitor had better devices,Competitor,0.4404,Positive
+4547-KQRTM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4877-EVATK,Competitor offered more data,Competitor,0.0,Neutral
+7639-SUPCW,Competitor made better offer,Competitor,0.4404,Positive
+1069-XAIEM,Competitor had better devices,Competitor,0.4404,Positive
+4658-HCOHW,Competitor had better devices,Competitor,0.4404,Positive
+3440-JPSCL,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2889-FPWRM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6987-XQSJT,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4290-BSXUX,Competitor offered more data,Competitor,0.0,Neutral
+0325-XBFAC,Competitor offered more data,Competitor,0.0,Neutral
+2462-XIIJB,Competitor offered more data,Competitor,0.0,Neutral
+4760-XOHVN,Competitor made better offer,Competitor,0.4404,Positive
+7817-BOQPW,Competitor made better offer,Competitor,0.4404,Positive
+1853-UDXBW,Price too high,Pricing,0.0,Neutral
+5458-CQJTA,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5219-YIPTK,Service dissatisfaction,Customer Service,-0.4939,Negative
+3540-RZJYU,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2091-MJTFX,Network reliability,Network Quality,0.0,Neutral
+0883-EIBTI,Limited range of services,Customer Service,-0.2263,Negative
+0722-TROQR,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+7571-YXDAD,Long distance charges,Other,-0.2732,Negative
+3393-FMZPV,Extra data charges,Other,-0.2732,Negative
+6402-ZFPPI,Price too high,Pricing,0.0,Neutral
+7486-KSRVI,Product dissatisfaction,Product & Offers,-0.4939,Negative
+8443-WVPSS,Service dissatisfaction,Customer Service,-0.4939,Negative
+3006-XIMLN,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9965-YOKZB,Network reliability,Network Quality,0.0,Neutral
+0504-HHAPI,Don't know,Other,0.0,Neutral
+6305-YLBMM,Attitude of service provider,Customer Service,0.0,Neutral
+3647-GMGDH,Attitude of support person,Customer Service,0.4019,Positive
+3791-LGQCY,Attitude of support person,Customer Service,0.4019,Positive
+8166-ZZTFS,Attitude of support person,Customer Service,0.4019,Positive
+2956-GGUCQ,Attitude of service provider,Customer Service,0.0,Neutral
+6595-COKXZ,Attitude of service provider,Customer Service,0.0,Neutral
+0362-ZBZWJ,Attitude of service provider,Customer Service,0.0,Neutral
+4211-MMAZN,Attitude of support person,Customer Service,0.4019,Positive
+4274-OWWYO,Deceased,Personal Reasons,0.0,Neutral
+1541-ETJZO,Moved,Personal Reasons,0.0,Neutral
+4106-HADHQ,Moved,Personal Reasons,0.0,Neutral
+2369-UAPKZ,Moved,Personal Reasons,0.0,Neutral
+2778-OCLGR,Competitor had better devices,Competitor,0.4404,Positive
+0637-KVDLV,Don't know,Other,0.0,Neutral
+6633-MPWBS,Competitor offered more data,Competitor,0.0,Neutral
+8785-EPNCG,Competitor made better offer,Competitor,0.4404,Positive
+5729-KLZAR,Competitor had better devices,Competitor,0.4404,Positive
+1582-RAFML,Competitor had better devices,Competitor,0.4404,Positive
+8740-CRYFY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2962-XPMCQ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5884-GCYMI,Product dissatisfaction,Product & Offers,-0.4939,Negative
+1678-FYZOW,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8627-EHGIP,Competitor offered more data,Competitor,0.0,Neutral
+5480-TBGPH,Competitor offered more data,Competitor,0.0,Neutral
+8854-CCVSQ,Competitor offered more data,Competitor,0.0,Neutral
+0511-JTEOY,Competitor made better offer,Competitor,0.4404,Positive
+7067-KSAZT,Competitor made better offer,Competitor,0.4404,Positive
+6532-YLWSI,Price too high,Pricing,0.0,Neutral
+9300-AGZNL,Product dissatisfaction,Product & Offers,-0.4939,Negative
+1112-CUNAO,Service dissatisfaction,Customer Service,-0.4939,Negative
+5175-AOBHI,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5174-RNGBH,Network reliability,Network Quality,0.0,Neutral
+7270-BDIOA,Limited range of services,Customer Service,-0.2263,Negative
+9565-JSNFM,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+0607-DAAHE,Long distance charges,Other,-0.2732,Negative
+9732-KPKBW,Extra data charges,Other,-0.2732,Negative
+3389-YGYAI,Price too high,Pricing,0.0,Neutral
+9560-ARGQJ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5134-IKDAY,Service dissatisfaction,Customer Service,-0.4939,Negative
+3070-DVEYC,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5707-ORNDZ,Network reliability,Network Quality,0.0,Neutral
+8696-JKZNU,Don't know,Other,0.0,Neutral
+5380-AFSSK,Don't know,Other,0.0,Neutral
+2055-PDADH,Don't know,Other,0.0,Neutral
+8714-EUHJO,Poor expertise of online support,Customer Service,-0.1027,Negative
+3721-CNEYS,Poor expertise of phone support,Customer Service,-0.1027,Negative
+2568-OIADY,Competitor had better devices,Competitor,0.4404,Positive
+1193-RTSLK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2302-ANTDP,Competitor offered more data,Competitor,0.0,Neutral
+5923-GXUOC,Competitor made better offer,Competitor,0.4404,Positive
+5233-GEEAX,Competitor had better devices,Competitor,0.4404,Positive
+4432-ADRLB,Competitor had better devices,Competitor,0.4404,Positive
+8993-PHFWD,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1565-RHDJD,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0643-OKLRP,Network reliability,Network Quality,0.0,Neutral
+7137-RYLPP,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3765-JXVKY,Competitor offered more data,Competitor,0.0,Neutral
+7330-WZLNC,Competitor offered more data,Competitor,0.0,Neutral
+3957-LXOLK,Competitor offered more data,Competitor,0.0,Neutral
+6635-MYYYZ,Competitor made better offer,Competitor,0.4404,Positive
+5281-BUZGT,Competitor made better offer,Competitor,0.4404,Positive
+5378-IKEEG,Price too high,Pricing,0.0,Neutral
+2718-GAXQD,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6413-XKKPU,Service dissatisfaction,Customer Service,-0.4939,Negative
+1449-XQEMT,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2626-URJFX,Network reliability,Network Quality,0.0,Neutral
+2612-RRIDN,Limited range of services,Customer Service,-0.2263,Negative
+4735-ASGMA,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+3669-LVWZB,Long distance charges,Other,-0.2732,Negative
+6892-EZDTG,Extra data charges,Other,-0.2732,Negative
+9725-SCPZG,Price too high,Pricing,0.0,Neutral
+3217-FZDMN,Service dissatisfaction,Customer Service,-0.4939,Negative
+7853-GVUDZ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+7480-QNVZJ,Network reliability,Network Quality,0.0,Neutral
+3943-KDREE,Don't know,Other,0.0,Neutral
+9239-ZBZZV,Competitor had better devices,Competitor,0.4404,Positive
+4398-HSCJH,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4430-UZIPO,Competitor offered more data,Competitor,0.0,Neutral
+4855-SNKMY,Competitor made better offer,Competitor,0.4404,Positive
+8008-HAWED,Competitor had better devices,Competitor,0.4404,Positive
+7124-UGSUR,Competitor had better devices,Competitor,0.4404,Positive
+1862-SKORY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1502-XFCVR,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9692-TUSXH,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7912-SYRQT,Competitor offered more data,Competitor,0.0,Neutral
+4816-JBHOV,Competitor offered more data,Competitor,0.0,Neutral
+8292-TYSPY,Competitor offered more data,Competitor,0.0,Neutral
+1867-BDVFH,Competitor made better offer,Competitor,0.4404,Positive
+2359-QWQUL,Competitor made better offer,Competitor,0.4404,Positive
+9103-TCIHJ,Price too high,Pricing,0.0,Neutral
+4140-WJAWW,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6653-CBBOM,Service dissatisfaction,Customer Service,-0.4939,Negative
+3247-ZVOUO,Lack of self-service on Website,Customer Service,-0.3182,Negative
+6101-IMRMM,Network reliability,Network Quality,0.0,Neutral
+1268-ASBGA,Limited range of services,Customer Service,-0.2263,Negative
+8943-URTMR,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+4713-LZDRV,Long distance charges,Other,-0.2732,Negative
+4325-NFSKC,Extra data charges,Other,-0.2732,Negative
+2955-PSXOE,Price too high,Pricing,0.0,Neutral
+7762-URZQH,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6907-NZZIJ,Service dissatisfaction,Customer Service,-0.4939,Negative
+2911-UREFD,Lack of self-service on Website,Customer Service,-0.3182,Negative
+3744-ZRRDZ,Network reliability,Network Quality,0.0,Neutral
+5673-TIYIB,Don't know,Other,0.0,Neutral
+1602-IJQQE,Attitude of service provider,Customer Service,0.0,Neutral
+4628-WQCQQ,Attitude of support person,Customer Service,0.4019,Positive
+1644-IRKSF,Attitude of support person,Customer Service,0.4019,Positive
+3705-PSNGL,Attitude of support person,Customer Service,0.4019,Positive
+6502-HCJTI,Attitude of service provider,Customer Service,0.0,Neutral
+2606-RMDHZ,Attitude of service provider,Customer Service,0.0,Neutral
+8258-GSTJK,Attitude of service provider,Customer Service,0.0,Neutral
+6861-OKBCE,Attitude of support person,Customer Service,0.4019,Positive
+9940-RHLFB,Competitor made better offer,Competitor,0.4404,Positive
+2995-UPRYS,Moved,Personal Reasons,0.0,Neutral
+6686-YPGHK,Moved,Personal Reasons,0.0,Neutral
+1383-EZRWL,Moved,Personal Reasons,0.0,Neutral
+4759-TRPLW,Competitor had better devices,Competitor,0.4404,Positive
+8563-IIOXK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8020-BWHYL,Competitor offered more data,Competitor,0.0,Neutral
+2982-VPSGI,Competitor made better offer,Competitor,0.4404,Positive
+8199-ZLLSA,Competitor had better devices,Competitor,0.4404,Positive
+4625-EWPTF,Competitor had better devices,Competitor,0.4404,Positive
+5980-NOPLP,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6892-XPFPU,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8010-EZLOU,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9874-QLCLH,Competitor offered more data,Competitor,0.0,Neutral
+8062-YBDOE,Don't know,Other,0.0,Neutral
+6000-APYLU,Competitor offered more data,Competitor,0.0,Neutral
+0947-IDHRQ,Competitor made better offer,Competitor,0.4404,Positive
+3672-YITQD,Competitor made better offer,Competitor,0.4404,Positive
+9048-JVYVF,Price too high,Pricing,0.0,Neutral
+8988-ECPJR,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3776-EKTKM,Service dissatisfaction,Customer Service,-0.4939,Negative
+1902-XBTFB,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9381-NDKME,Limited range of services,Customer Service,-0.2263,Negative
+2794-XIMMO,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+8382-SHQEH,Long distance charges,Other,-0.2732,Negative
+2983-ZANRP,Extra data charges,Other,-0.2732,Negative
+7845-URHJN,Price too high,Pricing,0.0,Neutral
+3034-ZBEQN,Product dissatisfaction,Product & Offers,-0.4939,Negative
+8327-LZKAS,Service dissatisfaction,Customer Service,-0.4939,Negative
+1075-BGWOH,Lack of self-service on Website,Customer Service,-0.3182,Negative
+0302-JOIVN,Network reliability,Network Quality,0.0,Neutral
+5366-IJEQJ,Don't know,Other,0.0,Neutral
+1981-INRFU,Don't know,Other,0.0,Neutral
+4971-PUYQO,Don't know,Other,0.0,Neutral
+8485-GJCDN,Poor expertise of online support,Customer Service,-0.1027,Negative
+1527-SXDPN,Poor expertise of phone support,Customer Service,-0.1027,Negative
+6029-WTIPC,Competitor had better devices,Competitor,0.4404,Positive
+8634-CILSZ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6682-QJDGB,Competitor offered more data,Competitor,0.0,Neutral
+8780-IXSTS,Competitor made better offer,Competitor,0.4404,Positive
+9530-EHPOH,Competitor had better devices,Competitor,0.4404,Positive
+0345-HKJVM,Don't know,Other,0.0,Neutral
+3049-SOLAY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3317-HRTNN,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3235-ETOOB,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8058-INTPH,Competitor offered more data,Competitor,0.0,Neutral
+5569-OUICF,Competitor offered more data,Competitor,0.0,Neutral
+8821-XNHVZ,Competitor offered more data,Competitor,0.0,Neutral
+2082-OJVTK,Competitor made better offer,Competitor,0.4404,Positive
+5940-NFXKV,Competitor made better offer,Competitor,0.4404,Positive
+8053-WWDRO,Price too high,Pricing,0.0,Neutral
+9564-KCLHR,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2082-CEFLT,Service dissatisfaction,Customer Service,-0.4939,Negative
+1213-NGCUN,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2379-ENZGV,Competitor made better offer,Competitor,0.4404,Positive
+5688-KZTSN,Network reliability,Network Quality,0.0,Neutral
+2894-QOJRX,Limited range of services,Customer Service,-0.2263,Negative
+5747-PMBSQ,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+3143-JQEGI,Long distance charges,Other,-0.2732,Negative
+6386-SZZKH,Extra data charges,Other,-0.2732,Negative
+2982-IHMFT,Price too high,Pricing,0.0,Neutral
+3521-SYVOR,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9526-JAWYF,Service dissatisfaction,Customer Service,-0.4939,Negative
+5649-VUKMC,Lack of self-service on Website,Customer Service,-0.3182,Negative
+5143-EGQFK,Network reliability,Network Quality,0.0,Neutral
+4919-IKATY,Don't know,Other,0.0,Neutral
+9050-QLROH,Competitor had better devices,Competitor,0.4404,Positive
+6168-WFVVF,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0877-SDMBN,Competitor offered more data,Competitor,0.0,Neutral
+8065-YKXKD,Competitor made better offer,Competitor,0.4404,Positive
+9637-EIHEQ,Don't know,Other,0.0,Neutral
+9689-PTNPG,Competitor had better devices,Competitor,0.4404,Positive
+9465-RWMXL,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2362-IBOOY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0843-WTBXE,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5515-IDEJJ,Competitor offered more data,Competitor,0.0,Neutral
+7450-NWRTR,Competitor offered more data,Competitor,0.0,Neutral
+5376-DEQCP,Competitor offered more data,Competitor,0.0,Neutral
+9095-HFAFX,Competitor made better offer,Competitor,0.4404,Positive
+6005-OBZPH,Price too high,Pricing,0.0,Neutral
+7932-WPTDS,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2722-VOJQL,Service dissatisfaction,Customer Service,-0.4939,Negative
+5228-EXCET,Lack of self-service on Website,Customer Service,-0.3182,Negative
+7394-FKDNK,Network reliability,Network Quality,0.0,Neutral
+6331-LWDTQ,Limited range of services,Customer Service,-0.2263,Negative
+1597-FZREH,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+7000-WCEVQ,Long distance charges,Other,-0.2732,Negative
+0727-IWKVK,Extra data charges,Other,-0.2732,Negative
+5959-BELXA,Price too high,Pricing,0.0,Neutral
+3512-IZIKN,Product dissatisfaction,Product & Offers,-0.4939,Negative
+6141-OOXUQ,Service dissatisfaction,Customer Service,-0.4939,Negative
+7503-ZGUZJ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2506-TNFCO,Network reliability,Network Quality,0.0,Neutral
+8718-PTMEZ,Don't know,Other,0.0,Neutral
+2207-OBZNX,Attitude of service provider,Customer Service,0.0,Neutral
+6142-VSJQO,Attitude of support person,Customer Service,0.4019,Positive
+6437-UKHMV,Attitude of support person,Customer Service,0.4019,Positive
+1114-CENIM,Don't know,Other,0.0,Neutral
+6060-DRTNL,Attitude of service provider,Customer Service,0.0,Neutral
+8473-VUVJN,Attitude of service provider,Customer Service,0.0,Neutral
+6289-CPNLD,Attitude of service provider,Customer Service,0.0,Neutral
+5536-SLHPM,Attitude of support person,Customer Service,0.4019,Positive
+0196-VULGZ,Deceased,Personal Reasons,0.0,Neutral
+8837-VVWLQ,Moved,Personal Reasons,0.0,Neutral
+2696-NARTR,Moved,Personal Reasons,0.0,Neutral
+7614-QVWQL,Moved,Personal Reasons,0.0,Neutral
+1976-CFOCS,Competitor had better devices,Competitor,0.4404,Positive
+4631-OACRM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3755-JBMNH,Competitor offered more data,Competitor,0.0,Neutral
+6345-ULYRW,Competitor made better offer,Competitor,0.4404,Positive
+1809-DMJHQ,Competitor had better devices,Competitor,0.4404,Positive
+6923-EFPNL,Competitor had better devices,Competitor,0.4404,Positive
+9574-RKJIF,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2619-WFQWU,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0778-NELLA,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4614-NUVZD,Competitor offered more data,Competitor,0.0,Neutral
+3803-KMQFW,Competitor offered more data,Competitor,0.0,Neutral
+6804-GDMOI,Competitor offered more data,Competitor,0.0,Neutral
+9572-MTILT,Competitor made better offer,Competitor,0.4404,Positive
+9611-CTWIH,Competitor made better offer,Competitor,0.4404,Positive
+0329-GTIAJ,Price too high,Pricing,0.0,Neutral
+6629-CZTTH,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5364-EVNIB,Service dissatisfaction,Customer Service,-0.4939,Negative
+5087-SUURX,Lack of self-service on Website,Customer Service,-0.3182,Negative
+0013-EXCHZ,Network reliability,Network Quality,0.0,Neutral
+5550-VFRLC,Limited range of services,Customer Service,-0.2263,Negative
+4929-BSTRX,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+2225-ZRGSG,Long distance charges,Other,-0.2732,Negative
+5271-YNWVR,Extra data charges,Other,-0.2732,Negative
+2657-ALMWY,Price too high,Pricing,0.0,Neutral
+6330-JKLPC,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4667-OHGKG,Service dissatisfaction,Customer Service,-0.4939,Negative
+1660-HSOOQ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+7253-UVNDW,Network reliability,Network Quality,0.0,Neutral
+7228-OMTPN,Don't know,Other,0.0,Neutral
+6284-AHOOQ,Don't know,Other,0.0,Neutral
+2344-JMOGN,Don't know,Other,0.0,Neutral
+3799-ISUZQ,Poor expertise of online support,Customer Service,-0.1027,Negative
+1794-HBQTJ,Poor expertise of phone support,Customer Service,-0.1027,Negative
+2460-FPSYH,Attitude of support person,Customer Service,0.4019,Positive
+4818-DRBQT,Attitude of support person,Customer Service,0.4019,Positive
+1320-HTRDR,Attitude of service provider,Customer Service,0.0,Neutral
+1493-AMTIE,Attitude of service provider,Customer Service,0.0,Neutral
+6424-ELEYH,Attitude of service provider,Customer Service,0.0,Neutral
+4391-RESHN,Attitude of support person,Customer Service,0.4019,Positive
+6821-BUXUX,Attitude of support person,Customer Service,0.4019,Positive
+5028-HTLJB,Attitude of support person,Customer Service,0.4019,Positive
+9801-GDWGV,Attitude of service provider,Customer Service,0.0,Neutral
+2320-JRSDE,Attitude of service provider,Customer Service,0.0,Neutral
+0601-WZHJF,Attitude of service provider,Customer Service,0.0,Neutral
+5143-WMWOG,Attitude of support person,Customer Service,0.4019,Positive
+5393-RXQSZ,Attitude of support person,Customer Service,0.4019,Positive
+0231-LXVAP,Attitude of support person,Customer Service,0.4019,Positive
+9444-JTXHZ,Don't know,Other,0.0,Neutral
+5510-BOIUJ,Attitude of service provider,Customer Service,0.0,Neutral
+4471-KXAUH,Attitude of service provider,Customer Service,0.0,Neutral
+7638-QVMVY,Attitude of support person,Customer Service,0.4019,Positive
+3244-DCJWY,Attitude of support person,Customer Service,0.4019,Positive
+0875-CABNR,Attitude of support person,Customer Service,0.4019,Positive
+7812-FZHPE,Attitude of service provider,Customer Service,0.0,Neutral
+4797-AXPXK,Attitude of service provider,Customer Service,0.0,Neutral
+5229-PRWKT,Attitude of service provider,Customer Service,0.0,Neutral
+6982-UQZLY,Attitude of support person,Customer Service,0.4019,Positive
+5057-LCOUI,Attitude of support person,Customer Service,0.4019,Positive
+0193-ESZXP,Attitude of support person,Customer Service,0.4019,Positive
+4369-HTUIF,Attitude of service provider,Customer Service,0.0,Neutral
+0156-FVPTA,Attitude of service provider,Customer Service,0.0,Neutral
+1984-FCOWB,Attitude of service provider,Customer Service,0.0,Neutral
+0654-HMSHN,Attitude of support person,Customer Service,0.4019,Positive
+5287-QWLKY,Attitude of support person,Customer Service,0.4019,Positive
+5196-SGOAK,Attitude of support person,Customer Service,0.4019,Positive
+1891-UAWWU,Attitude of service provider,Customer Service,0.0,Neutral
+6108-OQZDQ,Attitude of service provider,Customer Service,0.0,Neutral
+0363-QJVFX,Attitude of service provider,Customer Service,0.0,Neutral
+9840-DVNDC,Attitude of support person,Customer Service,0.4019,Positive
+3096-JRDSO,Attitude of support person,Customer Service,0.4019,Positive
+8042-JVNFH,Attitude of support person,Customer Service,0.4019,Positive
+3374-LXDEV,Attitude of service provider,Customer Service,0.0,Neutral
+5049-GLYVG,Attitude of service provider,Customer Service,0.0,Neutral
+5883-GTGVD,Attitude of service provider,Customer Service,0.0,Neutral
+4817-QRJSX,Attitude of support person,Customer Service,0.4019,Positive
+2398-YPMUR,Don't know,Other,0.0,Neutral
+9985-MWVIX,Attitude of support person,Customer Service,0.4019,Positive
+1265-XTECC,Attitude of service provider,Customer Service,0.0,Neutral
+2237-ZFSMY,Attitude of service provider,Customer Service,0.0,Neutral
+4871-JTKJF,Attitude of service provider,Customer Service,0.0,Neutral
+1415-YFWLT,Attitude of support person,Customer Service,0.4019,Positive
+6711-VTNRE,Attitude of support person,Customer Service,0.4019,Positive
+3500-RMZLT,Attitude of support person,Customer Service,0.4019,Positive
+4548-SDBKE,Attitude of service provider,Customer Service,0.0,Neutral
+8066-POXGX,Attitude of service provider,Customer Service,0.0,Neutral
+4143-OOBWZ,Attitude of service provider,Customer Service,0.0,Neutral
+7854-EKTJL,Attitude of support person,Customer Service,0.4019,Positive
+9102-IAYHT,Attitude of support person,Customer Service,0.4019,Positive
+3422-LYEPQ,Attitude of support person,Customer Service,0.4019,Positive
+2642-DTVCO,Attitude of service provider,Customer Service,0.0,Neutral
+4361-JEIVL,Attitude of service provider,Customer Service,0.0,Neutral
+1363-TXLSL,Attitude of service provider,Customer Service,0.0,Neutral
+9507-EXLTT,Attitude of support person,Customer Service,0.4019,Positive
+9846-GKXAS,Attitude of support person,Customer Service,0.4019,Positive
+6017-PPLPX,Attitude of support person,Customer Service,0.4019,Positive
+7136-RVDTZ,Attitude of service provider,Customer Service,0.0,Neutral
+4581-SSPWD,Attitude of service provider,Customer Service,0.0,Neutral
+6927-WTFIV,Attitude of service provider,Customer Service,0.0,Neutral
+3398-ZOUAA,Attitude of support person,Customer Service,0.4019,Positive
+0378-NHQXU,Deceased,Personal Reasons,0.0,Neutral
+4512-ZUIYL,Moved,Personal Reasons,0.0,Neutral
+7969-AULMZ,Moved,Personal Reasons,0.0,Neutral
+0568-ONFPC,Moved,Personal Reasons,0.0,Neutral
+0733-VUNUW,Competitor had better devices,Competitor,0.4404,Positive
+4550-EVXNY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2968-SSGAA,Competitor offered more data,Competitor,0.0,Neutral
+4844-JJWUY,Competitor made better offer,Competitor,0.4404,Positive
+6777-TGHTM,Competitor had better devices,Competitor,0.4404,Positive
+3538-WZPHD,Competitor had better devices,Competitor,0.4404,Positive
+4785-QRJHC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8610-WFCJF,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4905-JEFDW,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7881-INRLC,Competitor offered more data,Competitor,0.0,Neutral
+0117-LFRMW,Competitor offered more data,Competitor,0.0,Neutral
+6172-FECYY,Competitor offered more data,Competitor,0.0,Neutral
+1965-AKTSX,Competitor made better offer,Competitor,0.4404,Positive
+4786-UKSNZ,Competitor made better offer,Competitor,0.4404,Positive
+7248-VZQLC,Price too high,Pricing,0.0,Neutral
+0011-IGKFF,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4192-GORJT,Service dissatisfaction,Customer Service,-0.4939,Negative
+6496-SLWHQ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9912-GVSEQ,Network reliability,Network Quality,0.0,Neutral
+5383-MMTWC,Limited range of services,Customer Service,-0.2263,Negative
+7240-ETPTR,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+2202-CUYXZ,Long distance charges,Other,-0.2732,Negative
+5995-OIGLP,Extra data charges,Other,-0.2732,Negative
+6261-RCVNS,Price too high,Pricing,0.0,Neutral
+7951-QKZPL,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3640-PHQXK,Service dissatisfaction,Customer Service,-0.4939,Negative
+6877-LGWXO,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8019-ENHXU,Network reliability,Network Quality,0.0,Neutral
+5167-GBFRE,Don't know,Other,0.0,Neutral
+9033-EOXWV,Don't know,Other,0.0,Neutral
+1324-NLTJE,Don't know,Other,0.0,Neutral
+1522-VVDMG,Poor expertise of online support,Customer Service,-0.1027,Negative
+9185-TQCVP,Poor expertise of phone support,Customer Service,-0.1027,Negative
+5567-WSELE,Competitor had better devices,Competitor,0.4404,Positive
+8063-RJYNF,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0687-ZVTHB,Competitor offered more data,Competitor,0.0,Neutral
+9661-ACXBS,Competitor made better offer,Competitor,0.4404,Positive
+3727-RJMEO,Competitor had better devices,Competitor,0.4404,Positive
+6646-VRFOL,Competitor had better devices,Competitor,0.4404,Positive
+5685-IIXLY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+4250-ZBWLV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5095-AESKG,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1871-MOWRM,Competitor offered more data,Competitor,0.0,Neutral
+2027-OAQQC,Competitor offered more data,Competitor,0.0,Neutral
+9090-SGQXL,Competitor offered more data,Competitor,0.0,Neutral
+6595-YGXIT,Competitor made better offer,Competitor,0.4404,Positive
+9835-ZIITK,Competitor made better offer,Competitor,0.4404,Positive
+1555-DJEQW,Price too high,Pricing,0.0,Neutral
+5649-TJHOV,Product dissatisfaction,Product & Offers,-0.4939,Negative
+0519-XUZJU,Service dissatisfaction,Customer Service,-0.4939,Negative
+6338-AVWCY,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9253-QXKBE,Network reliability,Network Quality,0.0,Neutral
+9445-SZLCH,Limited range of services,Customer Service,-0.2263,Negative
+7568-PODML,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+5349-IECLD,Long distance charges,Other,-0.2732,Negative
+3945-GFWQL,Extra data charges,Other,-0.2732,Negative
+3797-VTIDR,Price too high,Pricing,0.0,Neutral
+9526-BIHHD,Product dissatisfaction,Product & Offers,-0.4939,Negative
+4523-WXCEF,Service dissatisfaction,Customer Service,-0.4939,Negative
+8364-TRMMK,Lack of self-service on Website,Customer Service,-0.3182,Negative
+3063-QFSZL,Network reliability,Network Quality,0.0,Neutral
+8775-LHDJH,Don't know,Other,0.0,Neutral
+3097-NQYSN,Competitor had better devices,Competitor,0.4404,Positive
+3565-UNOCC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9249-FXSCK,Competitor offered more data,Competitor,0.0,Neutral
+5493-SDRDQ,Competitor made better offer,Competitor,0.4404,Positive
+0871-URUWO,Competitor had better devices,Competitor,0.4404,Positive
+9190-MFJLN,Competitor had better devices,Competitor,0.4404,Positive
+1095-JUDTC,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0870-VEMYL,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5385-SUIRI,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3982-XWFZQ,Competitor offered more data,Competitor,0.0,Neutral
+4009-ALQFH,Competitor offered more data,Competitor,0.0,Neutral
+3627-FCRDW,Competitor offered more data,Competitor,0.0,Neutral
+7562-GSUHK,Competitor made better offer,Competitor,0.4404,Positive
+4903-UYAVB,Competitor made better offer,Competitor,0.4404,Positive
+6776-TLWOI,Price too high,Pricing,0.0,Neutral
+4077-CROMM,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2868-MZAGQ,Service dissatisfaction,Customer Service,-0.4939,Negative
+4847-QNOKA,Lack of self-service on Website,Customer Service,-0.3182,Negative
+6379-RXJRQ,Network reliability,Network Quality,0.0,Neutral
+8650-RHRKE,Limited range of services,Customer Service,-0.2263,Negative
+0475-RIJEP,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+1260-TTRXI,Long distance charges,Other,-0.2732,Negative
+6328-ZPBGN,Extra data charges,Other,-0.2732,Negative
+4789-KWMXN,Price too high,Pricing,0.0,Neutral
+2867-UIMSS,Product dissatisfaction,Product & Offers,-0.4939,Negative
+8111-RKSPX,Service dissatisfaction,Customer Service,-0.4939,Negative
+1585-MQSSU,Lack of self-service on Website,Customer Service,-0.3182,Negative
+2856-NNASM,Network reliability,Network Quality,0.0,Neutral
+7547-EKNFS,Attitude of service provider,Customer Service,0.0,Neutral
+6769-DYBQN,Attitude of support person,Customer Service,0.4019,Positive
+4439-JMPMT,Attitude of support person,Customer Service,0.4019,Positive
+2446-BEGGB,Attitude of support person,Customer Service,0.4019,Positive
+1496-GGSUK,Attitude of service provider,Customer Service,0.0,Neutral
+2575-GFSOE,Attitude of service provider,Customer Service,0.0,Neutral
+2842-JTCCU,Attitude of service provider,Customer Service,0.0,Neutral
+3296-SILRA,Attitude of support person,Customer Service,0.4019,Positive
+9681-OXGVC,Competitor made better offer,Competitor,0.4404,Positive
+5180-UCIIQ,Moved,Personal Reasons,0.0,Neutral
+7153-OANIO,Moved,Personal Reasons,0.0,Neutral
+6521-YYTYI,Moved,Personal Reasons,0.0,Neutral
+8878-HMWBV,Competitor had better devices,Competitor,0.4404,Positive
+3751-KTZEL,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1977-STDKI,Competitor offered more data,Competitor,0.0,Neutral
+5813-UECBU,Competitor made better offer,Competitor,0.4404,Positive
+0328-GRPMV,Competitor had better devices,Competitor,0.4404,Positive
+4342-HENTK,Competitor had better devices,Competitor,0.4404,Positive
+4195-SMMNX,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6956-SMUCM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3223-WZWJM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9053-JZFKV,Don't know,Other,0.0,Neutral
+2530-ENDWQ,Competitor offered more data,Competitor,0.0,Neutral
+6615-ZGEDR,Competitor offered more data,Competitor,0.0,Neutral
+9250-WYPLL,Competitor made better offer,Competitor,0.4404,Positive
+2754-XBHTB,Competitor made better offer,Competitor,0.4404,Positive
+1597-LHYNC,Price too high,Pricing,0.0,Neutral
+7055-VKGDA,Product dissatisfaction,Product & Offers,-0.4939,Negative
+0754-UKWQP,Service dissatisfaction,Customer Service,-0.4939,Negative
+7493-TPUWZ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+1577-HKTFG,Network reliability,Network Quality,0.0,Neutral
+8752-STIVR,Limited range of services,Customer Service,-0.2263,Negative
+4558-FANTW,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+8651-ENBZX,Long distance charges,Other,-0.2732,Negative
+7623-TRNQN,Extra data charges,Other,-0.2732,Negative
+9330-IJWIO,Price too high,Pricing,0.0,Neutral
+9286-DOJGF,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9661-MHUMO,Service dissatisfaction,Customer Service,-0.4939,Negative
+1842-EZJMK,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8079-XRJRS,Network reliability,Network Quality,0.0,Neutral
+8073-IJDCM,Don't know,Other,0.0,Neutral
+8884-ADFVN,Don't know,Other,0.0,Neutral
+2720-WGKHP,Don't know,Other,0.0,Neutral
+2869-ADAWR,Poor expertise of online support,Customer Service,-0.1027,Negative
+9894-EZEWG,Poor expertise of phone support,Customer Service,-0.1027,Negative
+7851-FLGGQ,Competitor had better devices,Competitor,0.4404,Positive
+0637-UBJRP,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0940-OUQEC,Competitor offered more data,Competitor,0.0,Neutral
+0702-PGIBZ,Competitor made better offer,Competitor,0.4404,Positive
+1963-VAUKV,Don't know,Other,0.0,Neutral
+3058-HJCUY,Competitor had better devices,Competitor,0.4404,Positive
+3259-FDWOY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0807-ZABDG,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5748-RNCJT,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7739-LAXOG,Competitor offered more data,Competitor,0.0,Neutral
+9776-CLUJA,Competitor offered more data,Competitor,0.0,Neutral
+6034-ZRYCV,Competitor offered more data,Competitor,0.0,Neutral
+2079-FBMZK,Competitor made better offer,Competitor,0.4404,Positive
+6608-QQLVK,Competitor made better offer,Competitor,0.4404,Positive
+3551-HUAZH,Price too high,Pricing,0.0,Neutral
+6302-JGYRJ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3685-YLCMQ,Service dissatisfaction,Customer Service,-0.4939,Negative
+8634-MPHTR,Lack of self-service on Website,Customer Service,-0.3182,Negative
+8761-NSOBC,Network reliability,Network Quality,0.0,Neutral
+8413-VONUO,Limited range of services,Customer Service,-0.2263,Negative
+9223-UCPVT,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+4351-QLCSU,Long distance charges,Other,-0.2732,Negative
+5419-JPRRN,Extra data charges,Other,-0.2732,Negative
+2100-BDNSN,Price too high,Pricing,0.0,Neutral
+0488-GSLFR,Product dissatisfaction,Product & Offers,-0.4939,Negative
+9318-NKNFC,Service dissatisfaction,Customer Service,-0.4939,Negative
+9728-FTTVZ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+7254-IQWOZ,Network reliability,Network Quality,0.0,Neutral
+2474-BRUCM,Don't know,Other,0.0,Neutral
+0742-NXBGR,Competitor had better devices,Competitor,0.4404,Positive
+6110-OHIHY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+5889-LFOLL,Competitor offered more data,Competitor,0.0,Neutral
+5708-EVONK,Don't know,Other,0.0,Neutral
+8708-XPXHZ,Competitor had better devices,Competitor,0.4404,Positive
+0616-ATFGB,Competitor had better devices,Competitor,0.4404,Positive
+7016-BPGEU,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6876-ADESB,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1963-SVUCV,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0220-EBGCE,Competitor offered more data,Competitor,0.0,Neutral
+2754-VDLTR,Competitor offered more data,Competitor,0.0,Neutral
+3190-XFANI,Competitor offered more data,Competitor,0.0,Neutral
+7551-DACSP,Competitor made better offer,Competitor,0.4404,Positive
+7235-NXZCP,Competitor made better offer,Competitor,0.4404,Positive
+0520-FDVVT,Price too high,Pricing,0.0,Neutral
+1444-VVSGW,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5712-PTIWW,Service dissatisfaction,Customer Service,-0.4939,Negative
+3315-TOTBP,Lack of self-service on Website,Customer Service,-0.3182,Negative
+6661-HBGWL,Network reliability,Network Quality,0.0,Neutral
+1518-VOWAV,Limited range of services,Customer Service,-0.2263,Negative
+5909-ECHUI,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+1309-BXVOQ,Long distance charges,Other,-0.2732,Negative
+9317-WZPGV,Extra data charges,Other,-0.2732,Negative
+2856-HYAPG,Price too high,Pricing,0.0,Neutral
+4488-PSYCG,Product dissatisfaction,Product & Offers,-0.4939,Negative
+3621-CEOVK,Service dissatisfaction,Customer Service,-0.4939,Negative
+6906-ANDWJ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+1031-IIDEO,Network reliability,Network Quality,0.0,Neutral
+5832-XKAES,Don't know,Other,0.0,Neutral
+4701-AHWMW,Attitude of service provider,Customer Service,0.0,Neutral
+9210-IAHGH,Attitude of support person,Customer Service,0.4019,Positive
+0023-XUOPT,Don't know,Other,0.0,Neutral
+4592-IWTJI,Attitude of support person,Customer Service,0.4019,Positive
+7632-MNYOY,Attitude of service provider,Customer Service,0.0,Neutral
+6518-LGAOV,Attitude of service provider,Customer Service,0.0,Neutral
+7242-QZLXF,Attitude of service provider,Customer Service,0.0,Neutral
+4576-CSAJH,Attitude of support person,Customer Service,0.4019,Positive
+1000-AJSLD,Competitor made better offer,Competitor,0.4404,Positive
+1062-LHZOD,Moved,Personal Reasons,0.0,Neutral
+9600-NAXZN,Moved,Personal Reasons,0.0,Neutral
+6457-USBER,Moved,Personal Reasons,0.0,Neutral
+4662-EKDPQ,Competitor had better devices,Competitor,0.4404,Positive
+9248-OJYKK,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3398-FSHON,Competitor offered more data,Competitor,0.0,Neutral
+3319-DWOEP,Competitor made better offer,Competitor,0.4404,Positive
+9259-PACGQ,Competitor had better devices,Competitor,0.4404,Positive
+4415-IJZTP,Competitor had better devices,Competitor,0.4404,Positive
+1465-VINDH,Competitor offered higher download speeds,Competitor,0.0,Neutral
+2810-FTLEM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1925-TIBLE,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0818-OCPZO,Competitor offered more data,Competitor,0.0,Neutral
+1447-GIQMR,Competitor offered more data,Competitor,0.0,Neutral
+0872-NXJYS,Competitor offered more data,Competitor,0.0,Neutral
+9412-ARGBX,Competitor made better offer,Competitor,0.4404,Positive
+1389-CXMLU,Competitor made better offer,Competitor,0.4404,Positive
+5561-NWEVX,Price too high,Pricing,0.0,Neutral
+2737-WFVYW,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2272-QAGFO,Service dissatisfaction,Customer Service,-0.4939,Negative
+9850-OWRHQ,Lack of self-service on Website,Customer Service,-0.3182,Negative
+3768-NLUBH,Network reliability,Network Quality,0.0,Neutral
+8676-TRMJS,Limited range of services,Customer Service,-0.2263,Negative
+7359-SSBJK,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+0685-MLYYM,Long distance charges,Other,-0.2732,Negative
+8182-PNAGI,Extra data charges,Other,-0.2732,Negative
+7957-RYHQD,Price too high,Pricing,0.0,Neutral
+2180-DXNEG,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5515-AKOAJ,Service dissatisfaction,Customer Service,-0.4939,Negative
+8976-OQHGT,Lack of self-service on Website,Customer Service,-0.3182,Negative
+6230-BSUXY,Network reliability,Network Quality,0.0,Neutral
+5294-CDGWY,Don't know,Other,0.0,Neutral
+5295-PCJOO,Don't know,Other,0.0,Neutral
+9863-JZAIC,Don't know,Other,0.0,Neutral
+7660-HDPJV,Poor expertise of online support,Customer Service,-0.1027,Negative
+7931-PXHFC,Poor expertise of phone support,Customer Service,-0.1027,Negative
+3990-QYKBE,Competitor had better devices,Competitor,0.4404,Positive
+4919-MOAVT,Competitor offered higher download speeds,Competitor,0.0,Neutral
+3090-HAWSU,Competitor offered more data,Competitor,0.0,Neutral
+9820-RMCQV,Competitor made better offer,Competitor,0.4404,Positive
+7839-QRKXN,Competitor had better devices,Competitor,0.4404,Positive
+5204-QZXPU,Competitor had better devices,Competitor,0.4404,Positive
+4597-ELFTS,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8450-JOVAH,Competitor offered higher download speeds,Competitor,0.0,Neutral
+1113-IUJYX,Competitor offered higher download speeds,Competitor,0.0,Neutral
+9274-CNFMO,Competitor offered more data,Competitor,0.0,Neutral
+7758-XKCBS,Competitor offered more data,Competitor,0.0,Neutral
+8992-JQYUN,Competitor offered more data,Competitor,0.0,Neutral
+0617-AQNWT,Competitor made better offer,Competitor,0.4404,Positive
+2446-PLQVO,Don't know,Other,0.0,Neutral
+3005-NFMTA,Price too high,Pricing,0.0,Neutral
+8784-CGILN,Product dissatisfaction,Product & Offers,-0.4939,Negative
+5389-FFVKB,Service dissatisfaction,Customer Service,-0.4939,Negative
+8444-WRIDW,Lack of self-service on Website,Customer Service,-0.3182,Negative
+9451-LPGOO,Network reliability,Network Quality,0.0,Neutral
+5868-YWPDW,Limited range of services,Customer Service,-0.2263,Negative
+2025-JKFWI,Lack of affordable download/upload speed,Network Quality,-0.3182,Negative
+4078-SAYYN,Long distance charges,Other,-0.2732,Negative
+9940-HPQPG,Extra data charges,Other,-0.2732,Negative
+6618-RYATB,Price too high,Pricing,0.0,Neutral
+9079-YEXQJ,Product dissatisfaction,Product & Offers,-0.4939,Negative
+2685-SREOM,Service dissatisfaction,Customer Service,-0.4939,Negative
+0402-CQAJN,Lack of self-service on Website,Customer Service,-0.3182,Negative
+6692-UDPJC,Network reliability,Network Quality,0.0,Neutral
+1273-MTETI,Don't know,Other,0.0,Neutral
+5480-HPRRX,Attitude of support person,Customer Service,0.4019,Positive
+0295-PPHDO,Attitude of support person,Customer Service,0.4019,Positive
+1195-OIYEJ,Attitude of support person,Customer Service,0.4019,Positive
+5906-CVLHP,Attitude of service provider,Customer Service,0.0,Neutral
+4501-EQDRN,Attitude of service provider,Customer Service,0.0,Neutral
+2990-HWIML,Attitude of service provider,Customer Service,0.0,Neutral
+7384-GHBPI,Attitude of support person,Customer Service,0.4019,Positive
+7603-USHJS,Attitude of support person,Customer Service,0.4019,Positive
+7234-FECYN,Attitude of support person,Customer Service,0.4019,Positive
+5876-HZVZM,Attitude of service provider,Customer Service,0.0,Neutral
+1400-MMYXY,Attitude of service provider,Customer Service,0.0,Neutral
+3085-QUOZK,Attitude of service provider,Customer Service,0.0,Neutral
+3926-CUQZX,Don't know,Other,0.0,Neutral
+1041-RXHRA,Attitude of support person,Customer Service,0.4019,Positive
+1750-CSKKM,Attitude of support person,Customer Service,0.4019,Positive
+7142-HVGBG,Attitude of service provider,Customer Service,0.0,Neutral
+8267-ZNYVZ,Attitude of service provider,Customer Service,0.0,Neutral
+6457-GIRWB,Attitude of service provider,Customer Service,0.0,Neutral
+1450-SKCVI,Attitude of support person,Customer Service,0.4019,Positive
+5570-PTWEH,Attitude of support person,Customer Service,0.4019,Positive
+6502-MJQAE,Attitude of support person,Customer Service,0.4019,Positive
+7693-LCKZL,Attitude of service provider,Customer Service,0.0,Neutral
+0032-PGELS,Attitude of service provider,Customer Service,0.0,Neutral
+6797-LNAQX,Attitude of service provider,Customer Service,0.0,Neutral
+6394-MFYNG,Attitude of support person,Customer Service,0.4019,Positive
+1564-NTYXF,Attitude of support person,Customer Service,0.4019,Positive
+8155-IBNHG,Attitude of support person,Customer Service,0.4019,Positive
+0886-QGENL,Attitude of service provider,Customer Service,0.0,Neutral
+8739-WWKDU,Attitude of service provider,Customer Service,0.0,Neutral
+8685-WHQPW,Attitude of service provider,Customer Service,0.0,Neutral
+4745-LSPLO,Attitude of support person,Customer Service,0.4019,Positive
+8083-YTZES,Attitude of support person,Customer Service,0.4019,Positive
+7240-FQLHE,Attitude of support person,Customer Service,0.4019,Positive
+6664-FPDAC,Attitude of service provider,Customer Service,0.0,Neutral
+0786-VSSUD,Attitude of service provider,Customer Service,0.0,Neutral
+3976-BWUCK,Attitude of service provider,Customer Service,0.0,Neutral
+3585-ISXZP,Attitude of support person,Customer Service,0.4019,Positive
+6583-QGCSI,Competitor made better offer,Competitor,0.4404,Positive
+4174-LPGTI,Moved,Personal Reasons,0.0,Neutral
+2108-XWMPY,Moved,Personal Reasons,0.0,Neutral
+6304-IJFSQ,Moved,Personal Reasons,0.0,Neutral
+0093-XWZFY,Competitor had better devices,Competitor,0.4404,Positive
+1980-KXVPM,Competitor offered higher download speeds,Competitor,0.0,Neutral
+7703-ZEKEF,Competitor offered more data,Competitor,0.0,Neutral
+0723-DRCLG,Competitor made better offer,Competitor,0.4404,Positive
+5482-NUPNA,Competitor had better devices,Competitor,0.4404,Positive
+1122-JWTJW,Competitor had better devices,Competitor,0.4404,Positive
+1699-HPSBG,Competitor offered higher download speeds,Competitor,0.0,Neutral
+8775-CEBBJ,Competitor offered higher download speeds,Competitor,0.0,Neutral
+6894-LFHLY,Competitor offered higher download speeds,Competitor,0.0,Neutral
+0639-TSIQW,Competitor offered more data,Competitor,0.0,Neutral
+8361-LTMKD,Competitor offered more data,Competitor,0.0,Neutral
