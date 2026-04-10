@@ -32,6 +32,8 @@ using machine learning, NLP, and business intelligence.
 | Streamlit | Web app deployment |
 
 ## Project Structure
+
+```
 customer-churn-project/
 ├── notebooks/          # Jupyter notebooks (EDA, Segmentation, ML, NLP)
 ├── src/                # Python scripts
@@ -40,6 +42,8 @@ customer-churn-project/
 ├── dashboard/          # Power BI files
 ├── app/                # Streamlit application
 └── sql/                # SQL feature engineering queries
+
+```
 
 ## Results
 | Metric | Value |
