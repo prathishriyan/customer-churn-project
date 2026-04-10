@@ -48,6 +48,7 @@ This project answers three business questions:
 ---
 
 ## 🗂️ Project Structure
+```
 
 customer-churn-project/
 ├── notebooks/
@@ -76,7 +77,7 @@ customer-churn-project/
 ├── requirements.txt              # Python dependencies
 └── README.md
 
-
+```
 ---
 
 ## 🛠️ Tech Stack
