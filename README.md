@@ -8,7 +8,7 @@ and Streamlit.
 ---
 
 ## 🚀 Live Demo
-👉 [Streamlit App](https://your-streamlit-url.streamlit.app)
+👉 [Streamlit App]([https://your-streamlit-url.streamlit.app](https://customer-churn-retention-analysis.streamlit.app/))
 
 ---
 
