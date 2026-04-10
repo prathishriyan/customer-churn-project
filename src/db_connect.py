@@ -1,17 +1,20 @@
+import os
+from dotenv import load_dotenv
 import psycopg2
 from sqlalchemy import create_engine
 import pandas as pd
 
 #connection details
+# Load environment variables from .env file
+load_dotenv()
 
 DB_CONFIG = {
-    'host': 'localhost',
-    'port': '5433',
-    'database': 'churn_project',
-    'user': 'postgres',
-    'password': 'admin123'
+    "host"    : os.getenv("DB_HOST"),
+    "port"    : os.getenv("DB_PORT"),
+    "database": os.getenv("DB_NAME"),
+    "user"    : os.getenv("DB_USER"),
+    "password": os.getenv("DB_PASSWORD")
 }
-
 #Test basic connection
 
 conn = psycopg2.connect(**DB_CONFIG)
