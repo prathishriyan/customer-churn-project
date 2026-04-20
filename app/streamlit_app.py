@@ -1,9 +1,17 @@
+import os
 import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
 import shap
 import matplotlib.pyplot as plt
+
+# ── Path setup ────────────────────────────────────────────────────────────────
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # .../app/
+ROOT_DIR = os.path.dirname(BASE_DIR)                   # repo root
+
+def repo_path(*parts):
+    return os.path.join(ROOT_DIR, *parts)
 
 st.set_page_config(
     page_title="Churn Predictor",
@@ -14,45 +22,27 @@ st.set_page_config(
 # ── Load model + pre-calculated data ─────────────────────────────────────────
 @st.cache_resource
 def load_model():
-    with open("models/xgb_model.pkl", "rb") as f:
+    with open(repo_path("models", "xgb_model.pkl"), "rb") as f:
         model = pickle.load(f)
-    with open("models/feature_names.pkl", "rb") as f:
+    with open(repo_path("models", "feature_names.pkl"), "rb") as f:
         features = pickle.load(f)
     return model, features
 
 @st.cache_data
 def load_rfm_data():
-    """
-    Load pre-calculated RFM scores and segments from customer_segments.csv.
-    Confirmed columns: CustomerID, Recency, Frequency, Monetary,
-    R_Score, F_Score, M_Score, RFM_Score, Cluster, Segment,
-    Contract, tenure_group, risk_segment, PCA1, PCA2
-    """
-    df = pd.read_csv("data/processed/customer_segments.csv")
+    df = pd.read_csv(repo_path("data", "processed", "customer_segments.csv"))
     return df
-
 
 @st.cache_data
 def load_rfm_boundaries():
-    """
-    Calculate quintile boundaries FROM the actual training dataset.
-    Uses exact column names confirmed from customer_segments.csv:
-      - "Tenure Months", "service_count", "Monthly Charges"
-    """
-    df = pd.read_csv("data/processed/customer_segments.csv")
+    df = pd.read_csv(repo_path("data", "processed", "customer_segments.csv"))
 
-    # ── Find each column by checking all variants ─────────────────────────
     def find_col(df, *candidates):
-        """Return first candidate that exists as a column, else None."""
         for c in candidates:
             if c in df.columns:
                 return c
         return None
 
-    # ── Your CSV has: Recency, Frequency, Monetary directly ─────────────
-    # Recency  = 72 - Tenure Months (already computed in segmentation notebook)
-    # Frequency = service_count
-    # Monetary  = Monthly Charges
     recency_col  = find_col(df, "Recency",   "recency")
     freq_col     = find_col(df, "Frequency", "frequency")
     monetary_col = find_col(df, "Monetary",  "monetary")
@@ -69,7 +59,6 @@ def load_rfm_boundaries():
         )
 
     boundaries = {
-        # Recency is already 72-tenure so higher = newer customer
         "recency_q"   : df[recency_col].quantile([0.2, 0.4, 0.6, 0.8]).values,
         "frequency_q" : df[freq_col].quantile([0.2, 0.4, 0.6, 0.8]).values,
         "monetary_q"  : df[monetary_col].quantile([0.2, 0.4, 0.6, 0.8]).values,
@@ -82,34 +71,21 @@ def load_rfm_boundaries():
 model, feature_names = load_model()
 rfm_df               = load_rfm_data()
 
-# Show column debug info in sidebar during testing
 try:
     boundaries = load_rfm_boundaries()
 except ValueError as e:
     st.error(f"❌ RFM boundary error: {e}")
-    st.info("Check that customer_segments.csv has: 'Tenure Months', 'service_count', 'Monthly Charges'")
+    st.info("Check that customer_segments.csv has: 'Recency', 'Frequency', 'Monetary'")
     st.stop()
 
 # ── RFM scoring using dataset quintile boundaries ─────────────────────────────
 def compute_rfm_score(tenure, num_services, monthly_charges):
-    """
-    Score new customers using quintile boundaries from training data.
-    Recency = 72 - tenure (matches how segmentation notebook computed it).
-    Frequency = number of services.
-    Monetary = monthly charges.
-    """
-    recency = 72 - tenure  # match segmentation notebook formula
+    recency = 72 - tenure
 
-    # R Score: higher recency = newer customer = higher score
     r_score = 1 + sum(recency > q for q in boundaries["recency_q"])
-
-    # F Score: more services = higher score
     f_score = 1 + sum(num_services > q for q in boundaries["frequency_q"])
-
-    # M Score: higher spend = higher score
     m_score = 1 + sum(monthly_charges > q for q in boundaries["monetary_q"])
 
-    # Clamp to 1-5
     r_score = max(1, min(5, r_score))
     f_score = max(1, min(5, f_score))
     m_score = max(1, min(5, m_score))
@@ -121,14 +97,7 @@ def compute_rfm_score(tenure, num_services, monthly_charges):
 def build_input(tenure, monthly_charges, contract, internet, tech_support,
                 online_security, num_services, senior, partner, dependents,
                 payment, customer_rfm=None):
-    """
-    Build feature dataframe matching training feature set.
-    If customer_rfm is provided (known customer), use pre-calculated scores.
-    Otherwise compute from dataset quintile boundaries.
-    """
 
-    # ── Label encode maps (must match training LabelEncoder order) ──────────
-    # These match the order sklearn LabelEncoder sees when trained on full data
     gender_map        = {"Female": 0, "Male": 1}
     yes_no_map        = {"No": 0, "Yes": 1}
     internet_map      = {"DSL": 0, "Fiber optic": 1, "No": 2}
@@ -145,7 +114,6 @@ def build_input(tenure, monthly_charges, contract, internet, tech_support,
 
     total_charges = monthly_charges * tenure
 
-    # ── Tenure group & Revenue band ─────────────────────────────────────────
     if tenure <= 12:
         tenure_group = "New"
     elif tenure <= 36:
@@ -164,10 +132,7 @@ def build_input(tenure, monthly_charges, contract, internet, tech_support,
     else:
         revenue_band = "Premium"
 
-    # ── RFM Scores ──────────────────────────────────────────────────────────
     if customer_rfm is not None:
-        # ✅ Known customer — use pre-calculated scores directly
-        # Auto-detect column names from whatever was saved in CSV
         def _get(row, *keys):
             for k in keys:
                 if k in row.index: return row[k]
@@ -179,11 +144,9 @@ def build_input(tenure, monthly_charges, contract, internet, tech_support,
         rfm_score = int(_get(customer_rfm, "RFM_Score", "rfm_score", "RFMScore") or 9)
         segment   = str(_get(customer_rfm, "Segment",   "segment")               or "Unknown")
     else:
-        # ⚠️ New customer — calculate using dataset quintile boundaries
         r_score, f_score, m_score, rfm_score = compute_rfm_score(
             tenure, num_services, monthly_charges
         )
-        # Estimate segment from rfm_score
         if rfm_score >= 13:
             segment = "Champions"
         elif rfm_score >= 10:
@@ -193,7 +156,6 @@ def build_input(tenure, monthly_charges, contract, internet, tech_support,
         else:
             segment = "High Risk"
 
-    # ── Customer value & risk segment ───────────────────────────────────────
     customer_value = 1 if (monthly_charges >= 85 and tenure > 24) else 0
     if contract == "Month-to-month" and monthly_charges > 65 and tenure < 12:
         risk_segment = 2
@@ -202,9 +164,8 @@ def build_input(tenure, monthly_charges, contract, internet, tech_support,
     else:
         risk_segment = 0
 
-    # ── Build raw dataframe ─────────────────────────────────────────────────
     data = {
-        "Gender"            : gender_map["Male"],          # default Male (not collected in v2)
+        "Gender"            : gender_map["Male"],
         "Senior Citizen"    : yes_no_map[senior],
         "Partner"           : yes_no_map[partner],
         "Dependents"        : yes_no_map[dependents],
@@ -241,7 +202,6 @@ def build_input(tenure, monthly_charges, contract, internet, tech_support,
 
     df = pd.DataFrame([data])
 
-    # Add any missing columns as 0
     for col in feature_names:
         if col not in df.columns:
             df[col] = 0
@@ -264,7 +224,6 @@ with st.expander("🔍 Know the Customer ID? Look them up directly (more accurat
         help="If found, pre-calculated RFM scores from training data will be used — much more accurate!"
     )
     if customer_id_input:
-        # Auto-detect CustomerID column name
         id_col = next((c for c in rfm_df.columns
                        if c.lower().replace(" ", "").replace("_", "") == "customerid"), None)
         seg_col     = next((c for c in rfm_df.columns if c.lower() == "segment"), "Segment")
@@ -282,7 +241,6 @@ with st.expander("🔍 Know the Customer ID? Look them up directly (more accurat
                 seg_col = next((c for c in rfm_df.columns if c.lower() == "segment"), "Segment")
                 rfm_col = next((c for c in rfm_df.columns if c.lower() == "rfm_score"), "RFM_Score")
                 st.success(f"✅ Customer found! Segment: **{row[seg_col]}** | RFM Score: **{row[rfm_col]}**")
-                # Show available useful columns
                 display_cols = [c for c in ["Recency","Frequency","Monetary","R_Score","F_Score","M_Score","RFM_Score","Segment","Contract"] if c in rfm_df.columns]
                 st.dataframe(match[display_cols].reset_index(drop=True))
                 found_customer = row
@@ -348,7 +306,6 @@ if predict_btn:
     churn_prob = model.predict_proba(input_df)[0][1]
     churn_pred = 1 if churn_prob >= 0.5 else 0
 
-    # ── Risk level ────────────────────────────────────────────────────────
     if churn_prob >= 0.7:
         risk_color = "#FF6B6B"
         risk_label = "HIGH RISK"
@@ -367,7 +324,6 @@ if predict_btn:
 
     st.divider()
 
-    # ── Result banner ─────────────────────────────────────────────────────
     st.markdown(f"""
     <div style='padding:24px; border-radius:12px;
                 background:{risk_color}22; border:2px solid {risk_color};
@@ -380,14 +336,12 @@ if predict_btn:
 
     st.markdown("")
 
-    # ── Metrics row ───────────────────────────────────────────────────────
     m1, m2, m3, m4 = st.columns(4)
     m1.metric("Churn Probability",  f"{churn_prob*100:.1f}%")
     m2.metric("Prediction",         "Will Churn ⚠️" if churn_pred else "Will Stay ✅")
     m3.metric("Customer Segment",   segment)
     m4.metric("Contract Type",      contract)
 
-    # ── RFM debug info (helpful during testing) ───────────────────────────
     with st.expander("🧮 RFM Score Details (for testing/debugging)", expanded=False):
         r1, r2, r3, r4 = st.columns(4)
         r1.metric("R Score (Recency)",   r_score,   help="1-5, lower = newer customer")
@@ -401,7 +355,6 @@ if predict_btn:
 
     st.divider()
 
-    # ── SHAP + Strategy ───────────────────────────────────────────────────
     left, right = st.columns([3, 2])
 
     with left:
@@ -465,7 +418,6 @@ if predict_btn:
 
     st.divider()
 
-    # ── Risk factor summary ───────────────────────────────────────────────
     st.subheader("⚠️ Risk Factor Summary")
 
     factors = {
