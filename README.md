@@ -170,7 +170,7 @@ cp .env.example .env
 
 **5. Run the Streamlit app**
 ```bash
-streamlit run app/streamlit_app_v2.py
+streamlit run app/streamlit_app.py
 ```
 
 ---
